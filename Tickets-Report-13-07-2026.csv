@@ -1,0 +1,619 @@
+
+S.No,"Title/Loan no",Category,"Sub Category",Priority,"Employee Name",Department,Branch,"Assigned To","Assigned To CSO",Status,Charges,"Created Date","Close Date",Remarks
+1,"PLEASE CHECK PAYMENT STATUS LN17116AB25-26037231	","Mobile Application","Collection App",Urgent,"Gajendra Singh","Collection & Legal","Registered And Head Office","Laxman Jangir",-,In-progress,-,13-Jul-26,13-Jul-26,
+2,"DSA CODE CREATION // KRISHNA AND ASSOCIATES C/O MR KISHAN LAL KUMAWAT // KUCHAMAN CITY ","Credility LOS",Miscellaneous,Urgent,"Deepak  Kushwaha","Sales - Alternate Channels","Registered And Head Office",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+3,"re-assign branch of the leads","Credility LOS","Change Request Credility",Urgent,"Sachin Sharma","Sales - Alternate Channels","Jaipur Malviya Nagar",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+4,"Unable view the send back case in RM ID","Credility LOS","Bug/Issue Credility",Urgent,"Akula Raju","Credit & Risk",Siddipet,"Priyanshu Jain",-,In-progress,-,13-Jul-26,13-Jul-26,
+5,LN37056HE24-25028258,"Customer Deliverables","Foreclosure Request",High,"Irukulla Himaja","Credit & Risk","Hyderabad Kukatpally","Manak Jangid",-,Open,885,13-Jul-26,13-Jul-26,"NOM SIR APPROVAL ATTACHED , PLEASE PROVIDE FCL ON URGENT BASIS"
+6,LN29005HP23-24013098,"Customer Request","Part payment",High,"Vikram Rajawat","Credit & Risk","Jaipur VKI","Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+7,LN29005HP24-25024420,"Customer Request","Part payment",High,"Vikram Rajawat","Credit & Risk","Jaipur VKI","Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+8,"Dear sir, kindly find adjust part payment  loan no- LN34045HP24-25021729","Customer Request","Part payment",High,"Amit Singh","Credit & Risk",Rudrapur,"Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+9,LN20102HP25-26040894,"Customer Request","Part payment",Low,"Prashant Uchariya","Credit & Risk",Gwalior,"Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+10,LN29025BT22-23009569,"Customer Request",Foreclosure,Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+11,LN29013TU24-25028555,"Customer Deliverables","Foreclosure Request",Urgent,"Rahul Verma","Credit & Risk",Kota,"Manak Jangid",-,Open,-,13-Jul-26,13-Jul-26,
+12,LN29013HC23-24013583,"Customer Deliverables","Foreclosure Request",Low,"Rahul Verma","Credit & Risk",Kota,"Manak Jangid",-,Open,-,13-Jul-26,13-Jul-26,
+13,LN29025TU24-25020820,"Customer Request",Foreclosure,Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+14,LN29025TU22-23010538,"Customer Request",Foreclosure,Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+15,LN29012HE23-24018984,"Customer Deliverables","Foreclosure Request",Urgent,"Yash Sharma","Credit & Risk",Rajsamand,"Manak Jangid",-,Open,885,13-Jul-26,13-Jul-26,
+16,LN29014HC24-25027614,"Customer Request",Foreclosure,Urgent,"Saddam Husain","Credit & Risk",Sikar,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+17,"Kindly assign the Lead No 00017762 to 505162","Credility LOS","Role and Right Access Credility",Urgent,"Singithem Kumar","Credit & Risk","Hyderabad Kushaiguda",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+18,"	LN17043HP23-24014493","Customer Deliverables","Foreclosure Request",Urgent,"Suman Kumar","Credit & Risk","Bengaluru Yelahanka","Mahendra Khubchandani",-,Re-Open,885,25-Jun-26,13-Jul-26,"Ticket has been closed due to branch made the FCL statement charges receipt in wrong head. Kindly arrange correct receipt on priority & confirm."
+19,"C - KYC NOT FOUND IN CREDIT OFFICER AFTER CASE FORWARD RM TO CREDIT OFFICER","Credility LOS",Miscellaneous,Urgent,Dayaram,Sales,Ghaziabad,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+20,"Laptop restarting automatically//505439",IT,"Laptop / Desktop",Urgent,"Prashant Hanmant Surve",Operations,"Pune Pimpri ",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+21,"SONE LAL SHUKLA  ID 19736 ","Credility LOS","Process Clarification",Urgent,"Amar Niwas Yadav Yaduvanshi",Sales,Lucknow,"Priyanshu Jain",-,In-progress,-,13-Jul-26,13-Jul-26,
+22,"Request approval of deviation from back end -Lead No 17338","Credility LOS",Miscellaneous,Urgent,"Shubham K Jain","Credit & Risk",Udaipur,"Surendar Bist",-,In-progress,-,13-Jul-26,13-Jul-26,
+23,"Wrongly manual deviation captured kindly removed ","Credility LOS","Change Request Credility",Low,"Satyawan Thorat","Credit & Risk",Ahmednagar,"Surendar Bist",-,In-progress,-,13-Jul-26,13-Jul-26,
+24,"BACKGROUND ",IT,"Laptop / Desktop",Low,"Prithiviraj V","Credit & Risk",Tiruvannamalai,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+25,"the intranet is not working on my laptop pleases resolve  ",IT,"Internet / Network Access",Urgent,"Arjun  Panchal",Sales,"Jaipur Sanganer",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+26,"REQUEST TO ADD PINCODE","Credility LOS","Change Request Credility",Urgent,"E  Ram",Sales,Madurai,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+27,LN29005RH25-26040707,"Customer Request",Foreclosure,Urgent,"Gopal Saini","Credit & Risk","Jaipur C Scheme",Un-assigned,-,Pending,365488,13-Jul-26,13-Jul-26,
+28,"Requesting visiting cards for salem branch Team",Admin,"Visiting Cards",Urgent,"Surya R",Sales,Salem,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+29,LN12035HP21-22004480,"Customer Deliverables","Foreclosure Request",Urgent,Prajapati,"Credit & Risk",Mehsana,Un-assigned,-,Pending,885,30-Jun-26,13-Jul-26,
+30,LN29012HP25-26035319,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Tailor","Credit & Risk",Bhilwara,Un-assigned,-,Pending,-,30-Jun-26,13-Jul-26,
+31,"Dear sir, kindly find adjust part payment  loan no-LN34045HC24-25021581","Customer Request","Part payment",High,"Amit Singh","Credit & Risk",Rudrapur,"Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+32,LN29052AB22-23011048,"Customer Deliverables","Foreclosure Request",Urgent,"Dolat Singh","Credit & Risk","Neem Ka Thana",Un-assigned,-,Pending,885," 3-Jul-26",13-Jul-26,
+33,LN29030HE23-24015657,"Customer Deliverables","Foreclosure Request",Urgent,"Dhiraj Sharma","Credit & Risk",Ratangarh,Un-assigned,-,Pending,885," 3-Jul-26",13-Jul-26,
+34,LN29003HC21-22004581,"Customer Deliverables","Foreclosure Request",Urgent,"Sawan Bhargav","Credit & Risk","Jaipur C Scheme",Un-assigned,-,Pending,885," 1-Jul-26",13-Jul-26,"Receipt not open."
+35,LN29050HC25-26042546,"Customer Deliverables","Foreclosure Request",Urgent,Dilip,"Credit & Risk","Kuchaman City",Un-assigned,-,Pending,885,30-Jun-26,13-Jul-26,"Where is Bank statement ?"
+36,"Customer Name: VENKATA SAI LALITHA KUMAR VEERLA, Lead No: 00006970, case is not seen in legal teams tray .","Credility LOS","Bug/Issue Credility",Urgent,"Kambhampati  Mahendra",Sales,Vijayawada,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+37,LN34079HP24-25022951,"Customer Deliverables","Foreclosure Request",Urgent,"Mushahid Malik","Credit & Risk",Haldwani,Un-assigned,-,Pending,885,30-Jun-26,13-Jul-26,"Dear Sir, 
+
+Update Banking Attached. "
+38,"Dear Team, Please provide 200 Loan Booklet ",Admin,Others,Urgent,"Vikas Jadhav","Credit & Risk","Pune Kharadi",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+39,"Please Confirm Payment Status ",OmniFin,Clarification,Urgent,"Krishan Sharma","Collection & Legal","Jaipur VKI",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+40,LN29024TU21-22004954,"Customer Deliverables","Foreclosure Request",Urgent,"Rahul Verma","Credit & Risk",Ajmer,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+41,LN29024BT21-22004629,"Customer Deliverables","Foreclosure Request",Low,"Rahul Verma","Credit & Risk",Ajmer,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+42,LN29005TU23-24016630,"Customer Deliverables","Foreclosure Request",High,"Vikram Rajawat","Credit & Risk","Jaipur VKI",Un-assigned,-,Pending,-,28-Jun-26,13-Jul-26,
+43,LN02122HP24-25030994,"Customer Deliverables","Foreclosure Request",Urgent,"Vijroth Durga Prasad","Credit & Risk",Rajahmundry,"Manak Jangid",-,Open,885,13-Jul-26,13-Jul-26,
+44,LN29005BT23-24015563,"Customer Deliverables","Foreclosure Request",High,"Vikram Rajawat","Credit & Risk","Jaipur VKI",Un-assigned,-,Pending,-,28-Jun-26,13-Jul-26,
+45,LN29018HC19-20001570,"Customer Deliverables","Foreclosure Request",Low,"Deepak Kalra","Credit & Risk",Baran,Un-assigned,-,Pending,885,28-Jun-26,13-Jul-26,
+46,LN29018TU23-24013053,"Customer Deliverables","Foreclosure Request",Low,"Deepak Kalra","Credit & Risk",Baran,Un-assigned,-,Pending,885,28-Jun-26,13-Jul-26,
+47,LN21085HC24-25024200,"Customer Deliverables","Foreclosure Request",Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,Un-assigned,-,Pending,885,27-Jun-26,13-Jul-26,
+48,LN12099HP24-25021325,"Customer Deliverables","Foreclosure Request",Urgent,"Sohil Chauhan","Credit & Risk",Narol,Un-assigned,-,Pending,885,27-Jun-26,13-Jul-26,
+49,LN12035HP21-22004349,"Customer Deliverables","Foreclosure Request",Urgent,Prajapati,"Credit & Risk",Mehsana,Un-assigned,-,Pending,885,27-Jun-26,13-Jul-26,
+50,LN29007HC24-25023836,"Customer Deliverables","Foreclosure Request",Urgent,"Piyush Joshi","Credit & Risk",Udaipur,Un-assigned,-,Pending,885,27-Jun-26,13-Jul-26,
+51,LN29007HE24-25022666,"Customer Deliverables","Foreclosure Request",Urgent,"Piyush Joshi","Credit & Risk",Udaipur,Un-assigned,-,Pending,885,27-Jun-26,13-Jul-26,
+52,LN29024HC23-24014870,"Customer Request","Part payment",Low,"Rahul Verma","Credit & Risk",Ajmer,"Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+53,LN34046HE22-23010004,"Customer Request","Part payment",Urgent,"Abhishek Saini","Credit & Risk",Roorkee,"Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+54,LN29023HC20-21002960,"Customer Request",Foreclosure,Urgent,"Praful Kakhani","Credit & Risk",Bhilwara,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+55,LN34061HP24-25023710,"Customer Deliverables","Foreclosure Request",High,"Suraj Rawat","Credit & Risk",Kashipur,"Manak Jangid",-,Open,885,13-Jul-26,13-Jul-26,
+56,"Case not showing in send back // 507305",OmniFin,Bug/Issue,Low,"Jitendra  Makwana",Sales,"Jaipur Kalwar Road",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+57,"Email Access",IT,Email,Urgent,"Prithiviraj V","Credit & Risk",Tiruvannamalai,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+58,"Kindly configure the laptop ",IT,"Laptop / Desktop",Urgent,"Sanjay  Shah","Credit & Risk",Delhi_NSP,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+59,"Request for Printer Instlation.",IT,"Printer / Scanner",Urgent,"Lokesha  B R","Credit & Risk",Hassan,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+60,"LN12034HE24-25025546 ","Customer Request",Foreclosure,Urgent,"Patel Navnitbhai","Credit & Risk",Ahmedabad,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+61,"OMNI FIN CREDILITY AND MAILS ARE NOT WORKING ",IT,"Laptop / Desktop",Urgent,"Pipadalli Beerappa",Sales,Sangareddy,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+62,LN20109HC24-25028356,"Customer Deliverables","Foreclosure Request",Urgent,"Yogesh Sharma","Credit & Risk",Ashta,"Manak Jangid",-,Open,885,13-Jul-26,13-Jul-26,
+63,LN20109HC24-25028356,"Customer Request",Foreclosure,Urgent,"Yogesh Sharma","Credit & Risk",Ashta,Un-assigned,-,Pending,885,13-Jul-26,13-Jul-26,
+64,LN28120HP24-25028907,"Customer Deliverables","Foreclosure Request",Low,"Tarnjeet Singh","Credit & Risk",Zirakpur,Un-assigned,-,Pending,885,27-Jun-26,13-Jul-26,"kindly provide FCL"
+65,"IMD REFUND  ISSUE","Credility LOS",Miscellaneous,Urgent,"Dangeti Girish Kumar",Sales,Vijayawada,"Laxman Jangir",-,Re-Open,-,13-Jul-26,13-Jul-26,"As discussed please share payment screenshot."
+66,LN29028HC18-19000567,"Customer Deliverables","Foreclosure Request",Low,"Hemant Kumawat","Credit & Risk",Nimbahera,Un-assigned,-,Pending,885,13-Jul-26,13-Jul-26,
+67,LN29028TU21-22004064,"Customer Deliverables","Foreclosure Request",Low,"Hemant Kumawat","Credit & Risk",Nimbahera,Un-assigned,-,Pending,885,13-Jul-26,13-Jul-26,
+68,"Request for Wi-Fi Network Access – Jangaon Branch",IT,"Internet / Network Access",Low,"Aleshala Prashanth","Credit & Risk",Warangal,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+69," LN29013HP24-25027207","Customer Deliverables","Foreclosure Request",Low,"Rahul Verma","Credit & Risk",Kota,"Manak Jangid",-,Open,-,13-Jul-26,13-Jul-26,
+70,"Department Change ",OmniFin,"Change Request",Urgent,"Kavish  Kumar",Legal,"Dehradun Clock Tower",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+71,"Configuration for BM",IT,"Laptop / Desktop",Urgent,"Preethi S","Credit & Risk",Coimbatore,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+72,"please unable to access dashboard app",IT,Other,Urgent,"Tarun  Jain",Sales,Dungarpur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+73,"	LN17043HE24-25027741","Customer Deliverables","Foreclosure Request",Urgent,"Suman Kumar","Credit & Risk","Bengaluru Yelahanka","Mahendra Khubchandani",-,In-progress,885,13-Jul-26,13-Jul-26,"Dear Team,
+
+Requesting to provide FCL of below mentioned customer on urgent base.
+
+Omni receipt attached kindly do the needful"
+74,LN37123HE24-25031268,"Customer Request",Foreclosure,Urgent,"Singithem Kumar","Credit & Risk","Hyderabad Kushaiguda","Mahendra Khubchandani",-,In-progress,0,13-Jul-26,13-Jul-26,
+75,LN29006HC23-24018829,"Customer Request",Foreclosure,Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Mahendra Khubchandani",-,In-progress,-,13-Jul-26,13-Jul-26,
+76,LN17049BT23-24012323,"Customer Deliverables","Original property Dispatch",Urgent,"Ananda A","Credit & Risk","Bengaluru T.dasarahalli","Mahendra Khubchandani",-,In-progress,-,13-Jul-26,13-Jul-26,
+77,LN29006TU25-26033000,"Customer Request",Foreclosure,Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Mahendra Khubchandani",-,In-progress,-,13-Jul-26,13-Jul-26,
+78,LN33088HP23-24019410,"Customer Request",Foreclosure,Low,"Abhishek Singh","Credit & Risk",Saharanpur,"Mahendra Khubchandani",-,In-progress,-,13-Jul-26,13-Jul-26,
+79,"inbox mail not received today morning  ",IT,Email,Urgent,"Dilip Anil Dhongale",Sales,Nagpur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+80,"mail not working",IT,Email,Urgent,"Sarfaraz Ilahi Tamboli",Sales,"Pune Katraj",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+81,"scaner not working ",IT,"Printer / Scanner",Urgent,"Abhishek Saini","Credit & Risk",Roorkee,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+82,"Dear Team Please Loan No.-LN29084HE25-26045228  Assing case in my id 508309 ",OmniFin,"Branch Access",Urgent,"Anil Yadav","Credit & Risk",Reengus,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+83,"please send pdd cases in my id ",OmniFin,"Change Request",High,"Vikram Rajawat","Credit & Risk","Jaipur VKI",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+84,"OTC AND PDD DOCUMENT A",OmniFin,Other,Urgent,"Ananda A","Credit & Risk","Bengaluru T.dasarahalli",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+85,"mail not working",IT,Email,Urgent,"Mali Bhavin Sureshbhai Bhavin",Sales,Vadodara,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+86,"Please Update IFSC Code YESB0AZSB19","Credility LOS",Miscellaneous,Urgent,"Pankaj  Rawat",Sales,Kashipur,"Priyanshu Jain",-,In-progress,-,13-Jul-26,13-Jul-26,"Please Provide IFSC Code, MICR Code, Bank Name, Branch name.
+and  Attach Bank passbook / statement."
+87,"In FTR bank name is not available ",OmniFin,Bug/Issue,High,"Vishal Mate","Credit & Risk",Nagpur,"Priyanshu Jain",-,In-progress,-,13-Jul-26,13-Jul-26,"Please attach Bank Passbook / Cheque for Complete banking details."
+88,"Dear team please id create imp. 508905","Credility LOS","Id creation Credility",Urgent,"Sanwarmal Kharol",Sales,Bhilwara,"Priyanshu Jain",-,In-progress,-,13-Jul-26,13-Jul-26,"Employee Onboarding is received today, ID creation is in progress. Once the ID is created, will update you.
+"
+89,"Emp id 508932, ",OmniFin,"Role and Rights Access",Low,"Parapelli  Uday Nagendra",Sales,Khammam,"Priyanshu Jain",-,In-progress,-,13-Jul-26,13-Jul-26,"Emp - 508932 ID creation is in progress. Once the ID is created, will update you.
+"
+90,LN21055AB22-23009370,"Customer Deliverables","Foreclosure Request",Urgent,"Akshay Fengse","Credit & Risk","Pune Pimpri ","Manak Jangid",-,Open,885,13-Jul-26,13-Jul-26,
+91,"Libre Office Not working",IT,"Microsoft Office / Libre Office",Urgent,"Pankaj Bora",Sales,Rudrapur,"Bhanwar Bairwa",-,In-progress,-,13-Jul-26,13-Jul-26,
+92,"OUTLOOK NOT WORK ID - 506211",IT,Email,Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+93,LN37070HE24-25028025,"Customer Deliverables","Foreclosure Request",Urgent,"Aleshala Prashanth","Credit & Risk",Warangal,"Manak Jangid",-,Open,-,13-Jul-26,13-Jul-26,
+94,"LN20082TU25-26044856 ","Customer Request","EMI Related",High,"Sandeep Kumar","Credit & Risk",Dhar,"Pulkit Gupta",-,In-progress,2489,13-Jul-26,13-Jul-26,
+95,"Dear team please transfer OTC PDD of LOAN no 46396 to emp Id 508620 checker due to ex employee not available to the system ",OmniFin,"Data Request",Urgent,"Mahim Jain","Credit & Risk",Kekri,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+96,"Request for Branch manager Visiting card",Admin,"Visiting Cards",High,"Barath M",Sales,Tiruvannamalai,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+97,LN29004HP23-24013776,"Customer Request","Disbursal Related",Urgent,"Ravi Saini","Credit & Risk","Jaipur Kalwar Road","Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+98,LN20082BT25-26044807,"Customer Request","EMI Related",Low,"Sandeep Kumar","Credit & Risk",Dhar,"Pulkit Gupta",-,In-progress,1187,13-Jul-26,13-Jul-26,
+99,"account department  courier address",Admin,Others,High,"Karan Tiwari","Credit & Risk",Wardha,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+100,"LN21054HP24-25023723 ","Customer Deliverables","Foreclosure Request",Urgent,"Vikas Jadhav","Credit & Risk","Pune Kharadi","Manak Jangid",-,Open,-,13-Jul-26,13-Jul-26,
+101,"bluedart token",Admin,Others,High,"Dandu Pranayanitha","Credit & Risk",Warangal,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+102,"LOPTOP CAMERA NOT WORKING",IT,"Laptop / Desktop",High,"Barath M",Sales,Tiruvannamalai,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+103,"zing hr and wonderftr not working including official mail id not working.","Mobile Application","Technical APP",Urgent,"Pradeep  Dubey",Sales,Gwalior,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+104,"ALLOCATE CASE OTC/ PDD - 506211",OmniFin,"Data Request",Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+105,"UNABLE TO RECEIVE PDD DOCUMENT",OmniFin,"Data Request",Urgent,"Priyanka Rathore",Operations,Jodhpur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+106,"IFSC CODE NOT FITCHING// INDIAN BANK","Credility LOS","Credility Data Request",Urgent,"Gonthina Sai Ram",Sales,Rajahmundry,"Surendar Bist",-,In-progress,-,10-Jul-26,13-Jul-26,"HI,
+
+please provide Correct IFSC code details to map in credility and omnifin.
+
+"
+107,"laptop not working",IT,"Laptop / Desktop",Urgent,"Mamidi Upendar","Credit & Risk",Khammam,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+108,"Mapping for Technical Initiation - Hospete Branch",OmniFin,"Branch Access",High,"Darshan D R",Technical,Mysuru,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+109,"LN20089HP23-24016752 ","Customer Deliverables","Foreclosure Request",Urgent,"Harsh Mishra","Credit & Risk","Indore Dwarkapuri","Manak Jangid",-,Open,0,13-Jul-26,13-Jul-26,
+110,"Libre office not working",IT,"Microsoft Office / Libre Office",Urgent,"Vivek Kumar Singh",Sales,Prayagraj,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+111,"Instellation required ",IT,"Printer / Scanner",Urgent,"Manikanta  Muthu",Sales,Rajahmundry,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+112,"MY MAIL ID IS NOT WORKING",IT,Email,Urgent,"Abhishek Saini","Credit & Risk",Roorkee,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+113,"emp id -508248 , shubham upadhyay , zinghr not wornking from 4 days in mobile phone ,requesting u to solve the problem urgently",IT,Other,Urgent,"Shobhit  Jain",Sales,Rudrapur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+114,"Request to Extend VPN Access. Approval already received on Thursday. ",IT,"Laptop / Desktop",High,"Shubham Singh Negi",Technical,"Dehradun Clock Tower",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+115,"Mail Not Working",IT,"Laptop / Desktop",Urgent,"Rakesh Kumar Sharma",Sales,Dausa,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+116,LN20118HC25-26043300,"Customer Request","Disbursal Related",Medium,"Yashpal Chauhan","Credit & Risk",Mandsaur,"Pulkit Gupta",-,Re-Open,0,10-Jul-26,13-Jul-26,"Dear Team, 
+
+Case has been downsize in system 
+
+Tenure will be reduce by tomorrow "
+117,"pls up date IMEI  ",OmniFin,"IMEI Update",Urgent,"Jat  Chandrakant",Sales,Vadodara,"Laxman Jangir",-,In-progress,-,13-Jul-26,13-Jul-26,
+118,"Dear Team, mail not working in my system. Please resolve the issue.",IT,"Laptop / Desktop",Urgent,"Gaurav Pandey",Operations,Rudrapur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+119,"Dear Team,",IT,"Laptop / Desktop",Urgent,"Gaurav Pandey",Operations,Rudrapur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+120,"Dear team mail not working ",IT,Email,Urgent,"Sanwarmal Kharol",Sales,Bhilwara,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+121,LN29019HE23-24014388,"Customer Request",Repricing,Urgent,"Aman Sain","Credit & Risk",Kotputli,"Pulkit Gupta",-,In-progress,3000,13-Jul-26,13-Jul-26,
+122,"Printer issue",IT,"Printer / Scanner",High,"Priti Joshi","Credit & Risk",Gurugram,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+123,"MAIL NOT WORKING",IT,Email,Urgent,"Hemant Kumawat","Credit & Risk",Nimbahera,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+124,"internet not working at Chittorgarh branch please check and resolve this issue ",IT,"Internet / Network Access",Low,"Parag Sharma","Credit & Risk",Chittorgarh,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+125,"PUNCH IN AND PUNCH OUT ISSUE - 508793- WASEEM KHAN",IT,"Software / Applications",Urgent,"Chethana K B","Credit & Risk","Bengaluru Rajajinagar",Un-assigned,-,Pending,-," 3-Jul-26",13-Jul-26,
+126,LN37070HE24-25031256,"Customer Request","Disbursal Related",High,"Dandu Pranayanitha","Credit & Risk",Warangal,"Pulkit Gupta",-,In-progress,-," 9-Jul-26",13-Jul-26,
+127,"Dear team kindly provide printer access to my laptop / 506215 / Operation hub officer Bangalore",IT,"Printer / Scanner",Urgent,"Pavan Kumar",Operations,"Bengaluru Banashankari",Un-assigned,-,Pending,-,28-Jun-26,13-Jul-26,
+128,"Dear Team,  Kindly provide access for Teams ",IT,"Software / Applications",Urgent,"Keerthi Shekappa Kuratti","Human Resource","Bengaluru Banashankari",Un-assigned,-,Pending,-," 3-Jul-26",13-Jul-26,
+129,LN34031HP25-26031724,"Customer Request","Disbursal Related",Urgent,"Pritam Rana","Credit & Risk",Dehradun,"Pulkit Gupta",-,In-progress,-," 9-Jul-26",13-Jul-26,
+130,"Excel not open with attach mail",IT,Email,Urgent,"Banwari Lal Shersiya",Sales,"Jaipur VKI",Un-assigned,-,Pending,-," 6-Jul-26",13-Jul-26,
+131,"excell not open",IT,"Windows / Linux (Ubuntu)",Urgent,"Yogesh Singh Bhati",Sales,Jodhpur,"Sonu Singh Rajput",-,In-progress,-," 3-Jul-26",13-Jul-26,
+132,"please map outlook on my device  ",IT,Email,High,"Hardiksinh Abhesinh Chauhan",Sales,Ahmedabad,Un-assigned,-,Pending,-," 6-Jul-26",13-Jul-26,
+133,"INTERNET IS NOT WORKING AT GODHRA BRANCH",IT,"Internet / Network Access",Urgent,"Shreya Joshi","Credit & Risk",Vadodara,Un-assigned,-,Pending,-," 6-Jul-26",13-Jul-26,
+134,"Request for VPN access",IT,"VPN Access",Urgent,"Satya Gemballi",Technical,Vishakhapatnam,Un-assigned,-,Pending,-," 6-Jul-26",13-Jul-26,
+135,"Libre office not working",IT,"Microsoft Office / Libre Office",Urgent,"Hitesh  Prajapat",Sales,Banswara,Un-assigned,-,Pending,-," 6-Jul-26",13-Jul-26,
+136,"Microsoft office is not working",IT,"Microsoft Office / Libre Office",Urgent,"Usha Doddamani","Credit & Risk","Bengaluru Banashankari",Un-assigned,-,Pending,-," 6-Jul-26",13-Jul-26,
+137,"SALES APPLICATION ACCESS & SYSTEM CONFIGURATION REQUIRED ",IT,"Software / Applications",High,"Vijaya Kumara K S","Credit & Risk",Nelamangala,Un-assigned,-,Pending,-," 3-Jul-26",13-Jul-26,
+138,"Mail Not working in Mobile ",IT,"MDM Related Issue",Urgent,"Anurag Pal","Credit & Risk",Bhopal,"Sonu Singh Rajput",-,In-progress,-," 7-Jul-26",13-Jul-26,"team still issue not resolved
+"
+139,"PRINTER ISSUE ",IT,"Printer / Scanner",High,"Rapolu Sunitha",Sales,"Hyderabad Kukatpally","Avinash Pathak",-,In-progress,-,27-Jun-26,13-Jul-26,"Please call me once you available"
+140,"Approval for Activation of MS office",IT,"Microsoft Office / Libre Office",High,Ravi,Sales,"Dehradun Clock Tower",Un-assigned,-,Pending,-," 7-Jul-26",13-Jul-26,
+141,"wonder ftr app imd not showing ","Data Center","Application Related Issue",Urgent,"Nitesh  Kumar",Sales,"Jaipur Kalwar Road",Un-assigned,-,Pending,-," 7-Jul-26",13-Jul-26,
+142,"NEW JOIED EMPLOYEE ID CARD REQUIRED",Admin,"ID Card",Urgent,"Harisha A","Credit & Risk",Chintamani,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+143,"No Any one Email does not receive in my mail id please check.",IT,Email,Urgent,"Sanjay Pratap Singh","Credit & Risk","Gautam Buddha Nagar",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+144,"Mail ID Not Working",IT,Email,Urgent,"Pankaj Bora",Sales,Rudrapur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+145,"NET WORK ISSUE ",IT,"Internet / Network Access",Urgent,"Agraharapu Kumar","Credit & Risk",Vishakhapatnam,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+146,"Email not working",IT,Email,Urgent,"Yash Sharma","Credit & Risk",Rajsamand,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+147,"Income Assessment - Banking MICR code Issues",IT,"Software / Applications",Urgent,"Venkatachalapathi R","Credit & Risk",Namakkal,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+148,"RUNNING SLOW ",IT,"Laptop / Desktop",Urgent,"Yash Verma","Credit & Risk","Jaipur Kalwar Road",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+149,LN20089HP23-24016640,"Customer Deliverables","Foreclosure Request",Urgent,"Harsh Mishra","Credit & Risk","Indore Dwarkapuri","Mahendra Khubchandani",-,In-progress,885,26-Jun-26,13-Jul-26,
+150,LN29009HE22-23009697,"Customer Deliverables","Foreclosure Request",Urgent,"Lokesh Chandra","Credit & Risk",Jodhpur,"Mahendra Khubchandani",-,In-progress,885,29-Jun-26,13-Jul-26,
+151,LN31134HE26-27045418,"Customer Deliverables","Foreclosure Request",Urgent,"Arunadevi Velayutham","Credit & Risk",Madurai,"Mahendra Khubchandani",-,In-progress,885,24-Jun-26,13-Jul-26,
+152,LN29018TU24-25023873,"Customer Deliverables","Foreclosure Request",Low,"Deepak Kalra","Credit & Risk",Baran,"Mahendra Khubchandani",-,In-progress,885,24-Jun-26,13-Jul-26,
+153,LN29018HC20-21001980,"Customer Deliverables","Foreclosure Request",Low,"Deepak Kalra","Credit & Risk",Baran,"Mahendra Khubchandani",-,In-progress,885,24-Jun-26,13-Jul-26,
+154,LN12034HP24-25022003,"Customer Deliverables","Foreclosure Request",Urgent,"Patel Navnitbhai","Credit & Risk",Ahmedabad,"Mahendra Khubchandani",-,In-progress,-,26-Jun-26,13-Jul-26,
+155,LN29023AB22-23010541,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Tailor","Credit & Risk",Bhilwara,"Mahendra Khubchandani",-,In-progress,-," 2-Jul-26",13-Jul-26,
+156,"LN29084HE24-25024817 ","Customer Deliverables","Foreclosure Request",Urgent,"Anil Yadav","Credit & Risk",Reengus,"Mahendra Khubchandani",-,In-progress,885," 7-Jul-26",13-Jul-26,"Attachment not Find."
+157,LN29006HP24-25024589,"Customer Deliverables","Foreclosure Request",Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Mahendra Khubchandani",-,In-progress,-,28-Jun-26,13-Jul-26,
+158,"LN12071HP23-24014848 ","Customer Deliverables","Foreclosure Request",Urgent,"Dhruv Shah","Credit & Risk",Vadodara,"Mahendra Khubchandani",-,In-progress,885,27-Jun-26,13-Jul-26,
+159,LN20062HC23-24013828,"Customer Deliverables","Foreclosure Request",Urgent,"Abhay Mourya","Credit & Risk",Ratlam,"Mahendra Khubchandani",-,In-progress,-,23-Jun-26,13-Jul-26,
+160,LN12037HC25-26032589,"Customer Deliverables","Foreclosure Request",Urgent,"Vadekhaniya Raghubhai","Credit & Risk",Surendranagar,"Mahendra Khubchandani",-,In-progress,885,26-Jun-26,13-Jul-26,
+161,LN29007HC21-22006656,"Customer Deliverables","Foreclosure Request",Urgent,"Yash Sharma","Credit & Risk",Rajsamand,"Mahendra Khubchandani",-,In-progress,885,27-Jun-26,13-Jul-26,
+162,LN12037HC24-25025709,"Customer Deliverables","Foreclosure Request",Urgent,"Kariyaniya Minaj Sufiyan","Credit & Risk",Botad,"Mahendra Khubchandani",-,In-progress,885,25-Jun-26,13-Jul-26,
+163,LN12035HP22-23010480,"Customer Deliverables","Foreclosure Request",Urgent,Prajapati,"Credit & Risk",Mehsana,"Mahendra Khubchandani",-,In-progress,885,27-Jun-26,13-Jul-26,
+164,LN29083HC23-24018351,"Customer Deliverables","Foreclosure Request",Urgent,"Rahul Banjara","Credit & Risk",Pratapgarh,"Mahendra Khubchandani",-,In-progress,885,30-Jun-26,13-Jul-26,
+165,LN21055HC24-25028394,"Customer Deliverables","Foreclosure Request",Urgent,"Akshay Fengse","Credit & Risk","Pune Pimpri ","Mahendra Khubchandani",-,In-progress,885," 9-Jul-26",13-Jul-26,
+166,"Email not working",IT,Email,Urgent,"Vishnu Kumar Sharma",Sales,"Jaipur Agra Road",Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+167,LN21055HE24-25028254,"Customer Deliverables","Foreclosure Request",Urgent,"Akshay Fengse","Credit & Risk","Pune Pimpri ","Mahendra Khubchandani",-,In-progress,885," 9-Jul-26",13-Jul-26,
+168,LN12053HP24-25025962,"Customer Request",Foreclosure,Urgent,"Hardik Shah","Credit & Risk",Naroda,"Mahendra Khubchandani",-,In-progress,4413097,10-Jul-26,13-Jul-26,
+169,"System problem",IT,"Laptop / Desktop",Urgent,"Vaibhav Upadhyay",Sales,Dehradun,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+170,LN33103HC25-26036093,"Customer Request",Foreclosure,Urgent,"Rajat Agarwal","Credit & Risk",Agra,"Mahendra Khubchandani",-,In-progress,624298," 9-Jul-26",13-Jul-26,
+171,LN29060TU24-25030739,"Customer Request",Foreclosure,Urgent,"Dinesh Kumar Mahavar","Credit & Risk","Jaipur Sanganer","Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,
+172,LN29060BT24-25030691,"Customer Request",Foreclosure,Low,"Dinesh Kumar Mahavar","Credit & Risk","Jaipur Sanganer","Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,
+173,LN33078HP25-26034090,"Customer Deliverables","Foreclosure Request",Urgent,"Ayush Nigam","Credit & Risk",Kanpur,"Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,"Dear sir,
+Please share FC letter as per approval"
+174," LN17116HC24-25031201","Customer Deliverables","Foreclosure Request",Urgent,Pradeepa,"Credit & Risk","Bengaluru Kengeri","Mahendra Khubchandani",-,In-progress,0,10-Jul-26,13-Jul-26,"Dear manak sir ,
+
+Kindly forward the ticket to ops que"
+175,LN29018CP24-25028223,"Customer Request",Foreclosure,Low,"Deepak Kalra","Credit & Risk",Baran,"Mahendra Khubchandani",-,In-progress,1478863,10-Jul-26,13-Jul-26,
+176,LN29016HC21-22006597,"Customer Request",Foreclosure,High,Gaurav,"Credit & Risk",Nagaur,"Mahendra Khubchandani",-,In-progress,1039986,10-Jul-26,13-Jul-26,
+177,LN29008TU23-24014774,"Customer Deliverables","Foreclosure Request",High,"Manish Vijayvergiya","Credit & Risk",Bikaner,"Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,
+178,LN29008HC22-23008515,"Customer Deliverables","Foreclosure Request",Low,"Manish Vijayvergiya","Credit & Risk",Bikaner,"Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,
+179,LN17049HP25-26033550,"Customer Deliverables","Foreclosure Request",Urgent,"Ananda A","Credit & Risk","Bengaluru T.dasarahalli","Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,
+180,LN33078HC23-24015110,"Customer Deliverables","Foreclosure Request",High,"Ayush Nigam","Credit & Risk",Kanpur,"Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,
+181,LN33087HE25-26032626,"Customer Request",Foreclosure,Urgent,"Sangam Yadav","Credit & Risk",Lucknow,"Mahendra Khubchandani",-,In-progress,-,10-Jul-26,13-Jul-26,"Dear Sir , 
+requesting you to please update the status "
+182,"print issue in laptop",IT,"Laptop / Desktop",High,"Pradeep Sharma",Sales,Kashipur,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+183,"credility id blocked ",IT,"Software / Applications",Urgent,"Satya Narayan Daroga",Sales,Kekri,Un-assigned,-,Pending,-,13-Jul-26,13-Jul-26,
+184,LN29006HP24-25026840,"Customer Request",Repricing,Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Pulkit Gupta",-,In-progress,-,13-Jul-26,13-Jul-26,
+185,LN29026HP24-25022772,"Customer Request","Part payment",Low,"Pankaj Daiyya","Credit & Risk",Beawar,"Pulkit Gupta",-,In-progress,100000,10-Jul-26,13-Jul-26,
+186,LN29025HC22-23011496,"Customer Deliverables","Foreclosure Request",Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+187,"SYSTEM PROBLEM",IT,"Laptop / Desktop",Urgent,"Vaibhav Upadhyay",Sales,Dehradun,Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+188,"LN12071AB26-27047752 ","Customer Request","Part payment",Urgent,"Dhruv Shah","Credit & Risk",Vadodara,"Pulkit Gupta",-,In-progress,13504," 9-Jul-26",12-Jul-26,
+189,LN29017TU24-25021829,"Customer Deliverables","Foreclosure Request",Urgent,"Kuldeep Vijay","Credit & Risk",Tonk,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+190,LN29003HP25-26033406,"Customer Deliverables","Foreclosure Request",Urgent,"Sawan Bhargav","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Re-Open,885,30-Jun-26,12-Jul-26,"If customer Have both loan,
+Please Raise ticket from both loan."
+191,"Dear Team,",IT,"Laptop / Desktop",Low,"Devraj Chouhan",Sales,Rajsamand,Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+192,LN29025HE24-25023593,"Customer Deliverables","Foreclosure Request",Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,"Mahendra Khubchandani",-,In-progress,885,25-Jun-26,12-Jul-26,
+193,"Desktop configure",IT,"Printer / Scanner",Urgent,"Akhilesh Khokhar","Credit & Risk",Panipat,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+194,LN12071AB26-27046757,"Customer Request","Part payment",Urgent,"Shreya Joshi","Credit & Risk",Vadodara,"Pulkit Gupta",-,In-progress,11650,10-Jul-26,12-Jul-26,
+195,"LIBRA OFFICE IS NOT WORKING MY LAPTOP",IT,"Laptop / Desktop",Urgent,"Francis Johnbhai Chauhan",Sales,Naroda,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+196,"Request to provide TAB for pd update purpose |Anop Yadav |508329 |Mail approval attached .",IT,"Laptop / Desktop",High,"Anop Yadav","Credit & Risk","Jaipur DCM","Sonu Singh Rajput",-,In-progress,-," 3-Jul-26",12-Jul-26,"Team pls update . pending since long "
+197,LN12034HC26-27046361,"Customer Deliverables","Foreclosure Request",Urgent,"Patel Navnitbhai","Credit & Risk",Ahmedabad,"Manak Jangid",-,Open,-," 6-Jul-26",12-Jul-26,
+198,"VPN NOT WORKING",IT,"VPN Access",High,Ravindra,"Risk Containment Unit",Rudrapur,"Avinash Pathak",-,In-progress,-,27-Jun-26,12-Jul-26,
+199,LN29012HE24-25027070,"Customer Deliverables","Foreclosure Request",Urgent,"Piyush Joshi","Credit & Risk",Udaipur,"Manak Jangid",-,Open,885," 3-Jul-26",12-Jul-26,
+200,LN12034HE25-26042182,"Customer Deliverables","Foreclosure Request",Urgent,"Patel Navnitbhai","Credit & Risk",Ahmedabad,"Manak Jangid",-,Open,-," 6-Jul-26",12-Jul-26,
+201,LN12075HP23-24017344,"Customer Request",Foreclosure,High,"Naresh Patel","Credit & Risk",Vapi,"Mahendra Khubchandani",-,In-progress,0," 7-Jul-26",12-Jul-26,"dear sir,
+
+request for foreclosure amount "
+202,LN20111HP24-25029652,"Customer Request","Part payment",Urgent,"Kuldeep Kourav","Credit & Risk",Jabalpur,"Pulkit Gupta",-,In-progress,90000,10-Jul-26,12-Jul-26,
+203,LN33078HC25-26034296,"Customer Deliverables","Foreclosure Request",High,"Ayush Nigam","Credit & Risk",Kanpur,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+204,"Mic issue in Laptop",IT,"Laptop / Desktop",High,"Rishabh Pipara","Credit & Risk",Jodhpur,"Sonu Singh Rajput",-,In-progress,-," 8-Jul-26",12-Jul-26,
+205,LN34064HP24-25024731,"Customer Request","Part payment",Urgent,"Dev Singh","Credit & Risk",Rishikesh,"Pulkit Gupta",-,In-progress,-," 9-Jul-26",12-Jul-26,
+206,LN21055HE24-25023032,"Customer Deliverables","Foreclosure Request",High,"Akshay Fengse","Credit & Risk","Pune Pimpri ","Mahendra Khubchandani",-,In-progress,885,23-Jun-26,12-Jul-26,"APPROVAL ATTACHED"
+207,"LN29023HE25-26035997 ","Customer Deliverables","Foreclosure Request",Urgent,"Deepak Tailor","Credit & Risk",Bhilwara,"Mahendra Khubchandani",-,In-progress,-,25-Jun-26,12-Jul-26,
+208,"LN20041HC22-23009042 ","Customer Request",Foreclosure,Urgent,"Ashi Yadav","Credit & Risk",Ujjain,"Mahendra Khubchandani",-,In-progress,0,24-Jun-26,12-Jul-26,
+209,LN29015BT23-24016907,"Customer Deliverables","Foreclosure Request",Urgent,"Veerpal Singh","Credit & Risk",Sirohi,"Mahendra Khubchandani",-,In-progress,-,24-Jun-26,12-Jul-26,"Receipt not open."
+210,"LN29017HC24-25020478 ","Customer Deliverables","Foreclosure Request",Urgent,"Kuldeep Vijay","Credit & Risk",Tonk,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+211,LN20041HE24-25023126,"Customer Request","Part payment",Urgent,"Ashi Yadav","Credit & Risk",Ujjain,"Pulkit Gupta",-,In-progress,0," 9-Jul-26",12-Jul-26,
+212,LN29023HC23-24019037,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Tailor","Credit & Risk",Bhilwara,"Mahendra Khubchandani",-,In-progress,-,25-Jun-26,12-Jul-26,
+213,LN20040HC24-25025226,"Customer Request","Disbursal Related",Urgent,"Sumit Yadamray","Credit & Risk",Indore,"Pulkit Gupta",-,Re-Open,-," 8-Jul-26",12-Jul-26,"Dear Team,
+
+Kindly provide below mention documents for loan Downsize.
+
+1. DPN with revenue stamp all borrower’s sign Require due to not fill ROI
+2. Supplementary Loan Agreement with all borrower’s sign Revise require due to not fill properly
+"
+214,"VPN Access",IT,"VPN Access",Urgent,"K  Amarnath",Sales,"Bengaluru Banashankari",Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+215,"BM sir DaShbord Not Open Kindly Check ",OmniFin,Bug/Issue,Low,"Vijay Jaiswal","Credit & Risk","Indore Dwarkapuri","Laxman Jangir",-,In-progress,-,10-Jul-26,12-Jul-26,Analytics
+216,LN12035HC24-25020661,"Customer Deliverables","Foreclosure Request",Urgent,Prajapati,"Credit & Risk",Mehsana,"Manak Jangid",-,Open,-," 2-Jul-26",12-Jul-26,
+217,"Bhavik 501187",IT,Email,Urgent,"Bhavikkumar Ganpatlal Panchal",Sales,Ahmedabad,"Sonu Singh Rajput",-,In-progress,-," 8-Jul-26",12-Jul-26,
+218,LN29003HC25-26039202,"Customer Deliverables","Foreclosure Request",Urgent,"Sawan Bhargav","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+219,"LN29017HC22-23009990 ","Customer Deliverables","Foreclosure Request",Urgent,"Kuldeep Vijay","Credit & Risk",Tonk,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+220,"New laptop requires BSM sohan singh (506711) ",IT,"Laptop / Desktop",Urgent,"Sohan  Singh",Sales,Dehradun,"Rajat Sharma",-,In-progress,-,30-Jun-26,12-Jul-26,"Laptop Dispatch"
+221,LN12038HP22-23011817,"Customer Request",Foreclosure,Urgent,"Darji Mahendrabhai","Credit & Risk",Anand,"Mahendra Khubchandani",-,In-progress,-," 9-Jul-26",12-Jul-26,
+222,"Mail Not Working",IT,Email,Urgent,"Gotefode Mahadevbhai","Credit & Risk","Surat Kamrej",Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+223,LN29003HP25-26033365,"Customer Deliverables","Foreclosure Request",Urgent,"Sawan Bhargav","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+224,LN29006HC21-22004643,"Customer Deliverables","List of documents",Urgent,"Alka Pareek",Operations,"Jaipur DCM","Sunil Rajwaniya",-,In-progress,-," 7-Oct-21",12-Jul-26,
+225,"LN29010HC21-22006665 ","Customer Deliverables","Foreclosure Request",Medium,"Parag Sharma","Credit & Risk",Chittorgarh,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+226,LN37070HE24-25030576,"Customer Deliverables","Foreclosure Request",High,"Dandu Pranayanitha","Credit & Risk",Warangal,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+227,"LN29010TU22-23010069 ","Customer Deliverables","Foreclosure Request",Medium,"Parag Sharma","Credit & Risk",Chittorgarh,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+228,LN21085HC24-25025380,"Customer Request",Foreclosure,Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,"Mahendra Khubchandani",-,Re-Open,-," 6-Jul-26",12-Jul-26,"Where is Payment Scan Proof ??"
+229,"request for Destop password and ID",IT,"Laptop / Desktop",Urgent,"Sharmas Hussain",Sales,"Bengaluru Ramamurthy Nagar",Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+230,LN29003HC25-26032654,"Customer Deliverables","Foreclosure Request",Urgent,"Sawan Bhargav","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+231,"LN29017TU24-25021462 ","Customer Deliverables","Foreclosure Request",Urgent,"Kuldeep Vijay","Credit & Risk",Tonk,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+232,LN20118HE25-26042738,"Customer Deliverables","Foreclosure Request",High,"Yashpal Chauhan","Credit & Risk",Mandsaur,"Manak Jangid",-,Open,885," 8-Jul-26",12-Jul-26,
+233,LN20040HE24-25025592,"Customer Request",Foreclosure,Low,"Sumit Yadamray","Credit & Risk",Indore,"Mahendra Khubchandani",-,In-progress,1390705,30-Jun-26,12-Jul-26,
+234,"Unable to Reset password of Audit Website.",IT,"Laptop / Desktop",High,ANKUSH,"Credit & Risk","DELHI UTTAM NAGAR","Chhail Jangid",-,Re-Open,-,24-Jun-26,12-Jul-26,DOne
+235,"Require 10 Office Files",Admin,Stationery,Low,"Rashi Khandelwal",Legal,"Jaipur Malviya Nagar",Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+236,LN29006BT22-23009282,"Customer Deliverables","Foreclosure Request",Urgent,"Bhupendra Singh","Credit & Risk","Jaipur DCM","Manak Jangid",-,Open,-," 6-Jul-26",12-Jul-26,
+237,"Printer not working due to which print out of documents are not receiving",IT,"Printer / Scanner",Low,"Rashi Khandelwal",Legal,"Jaipur Malviya Nagar",Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+238,LN29024HP22-23008988,"Customer Deliverables","Foreclosure Request",Urgent,"Rahul Verma","Credit & Risk",Ajmer,"Manak Jangid",-,Open,885," 8-Jul-26",12-Jul-26,
+239,LN29006TU22-23009619,"Customer Deliverables","Foreclosure Request",Urgent,"Bhupendra Singh","Credit & Risk","Jaipur DCM","Manak Jangid",-,Open,-," 6-Jul-26",12-Jul-26,
+240,"please new pc mapping chandkheda branch for sales pc",IT,"Laptop / Desktop",Urgent,"Rathod Ashok","Credit & Risk",Chandkheda,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+241,LN29003HP20-21002335,"Customer Deliverables","Foreclosure Request",Urgent,"Gopal Saini","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+242,LN20040HE25-26033334,"Customer Request","Part payment",Urgent,"Sumit Yadamray","Credit & Risk",Indore,"Pulkit Gupta",-,In-progress,199000,10-Jul-26,12-Jul-26,
+243,LN29013IP23-24018223,"Customer Request",Foreclosure,Urgent,"Rahul Verma","Credit & Risk",Kota,"Mahendra Khubchandani",-,In-progress,-," 2-Jul-26",12-Jul-26,
+244,LN29016HC21-22004613,"Customer Deliverables","Foreclosure Request",High,Gaurav,"Credit & Risk",Nagaur,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+245,LN29005HC19-20001694,"Customer Deliverables","List of documents",Urgent,"Alka Pareek",Operations,"Jaipur DCM","Sunil Rajwaniya",-,In-progress,885," 9-Oct-21",12-Jul-26,"attached "
+246,LN29016TU24-25024379,"Customer Deliverables","Foreclosure Request",High,Gaurav,"Credit & Risk",Nagaur,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+247,LN21065TU25-26035080,"Customer Deliverables","Foreclosure Request",Urgent,"Pranavsingh Pardeshi","Credit & Risk",Ahmednagar,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+248,LN12063HP23-24018184,"Customer Request",Foreclosure,Urgent,"Kanzariya Bharatbhai","Credit & Risk",Morbi,"Mahendra Khubchandani",-,In-progress,-," 2-Jul-26",12-Jul-26,
+249,LN20089HE24-25020497,"Customer Deliverables","Foreclosure Request",Low,"Vijay Jaiswal","Credit & Risk","Indore Dwarkapuri","Manak Jangid",-,Open,885,30-Jun-26,12-Jul-26,
+250,"Wonder Audit 360 cant open not opening",IT,Other,Urgent,"Harsha M","Credit & Risk",Mysuru,Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+251,LN21065BT24-25021870,"Customer Deliverables","Foreclosure Request",Urgent,"Pranavsingh Pardeshi","Credit & Risk",Ahmednagar,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+252,"Reg: Desktop Monitor issue /Dindigul Branch",IT,"Laptop / Desktop",High,M.dhanasekar,Sales,Madurai,"Rajat Sharma",-,In-progress,-,30-Jun-26,12-Jul-26,
+253,LN21067HE23-24016547,"Customer Request",Foreclosure,Urgent,"Anil Ganesh Varpe","Credit & Risk",Aurangabad,"Mahendra Khubchandani",-,In-progress,1027614,26-Jun-26,12-Jul-26,
+254,LN34064HP25-26033755,"Customer Deliverables","Foreclosure Request",Urgent,"Dev Singh","Credit & Risk",Rishikesh,"Manak Jangid",-,Open,-," 2-Jul-26",12-Jul-26,
+255,LN29023HC25-26031723,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Tailor","Credit & Risk",Bhilwara,"Manak Jangid",-,Open,-,29-Jun-26,12-Jul-26,
+256,LN29024HC19-20001517,"Customer Deliverables","List of documents",High,"Vijay Sankhla",Operations,Ajmer,"Sunil Rajwaniya",-,Re-Open,0," 9-Oct-21",12-Jul-26,"LN29024HC19-20001517:-please attached kyc"
+257,"Need Mail access for Legal Vendor of dindigul Technical vendor",IT,Email,Urgent,"Abirami G","Credit & Risk",Dindigul,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+258,LN29003HE24-25026473,"Customer Deliverables","Foreclosure Request",Urgent,"Abhishek Singh","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Open,885," 8-Jul-26",12-Jul-26,
+259,"HAVING A ISSUE WITH ZING ONBOARDING APPLICATION PROFILE 100 PERCENTAGE.",,Salary,High,"Aleshala Prashanth","Credit & Risk",Warangal,Un-assigned,-,In-progress,-,15-Oct-25,12-Jul-26,
+260,LN12034HP24-25026768,"Customer Deliverables","Foreclosure Request",Urgent,"Hardik Shah","Credit & Risk",Naroda,"Manak Jangid",-,Open,885," 2-Jul-26",12-Jul-26,
+261,"LN29050HC24-25023365 ","Customer Deliverables","Foreclosure Request",Low,Dilip,"Credit & Risk","Kuchaman City","Mahendra Khubchandani",-,In-progress,885,25-Jun-26,12-Jul-26,
+262,LN12033HP20-21003304,"Customer Deliverables","Foreclosure Request",Low,"Thaker Hardipkumar","Credit & Risk",Palanpur,"Manak Jangid",-,Open,885," 3-Jul-26",12-Jul-26,
+263,LN29006HP25-26032980,"Customer Deliverables","Foreclosure Request",Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Manak Jangid",-,Open,-," 7-Jul-26",12-Jul-26,
+264,"Internet Not Working",IT,"Internet / Network Access",Urgent,"Kalu Ram  Banjara",Sales,Chittorgarh,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+265,LN12038HP24-25026054,"Customer Deliverables","Foreclosure Request",Urgent,"Darji Mahendrabhai","Credit & Risk",Anand,"Mahendra Khubchandani",-,In-progress,885,27-Jun-26,12-Jul-26,
+266,"LN29050TU25-26037489  ","Customer Deliverables","Foreclosure Request",Urgent,Dilip,"Credit & Risk","Kuchaman City","Mahendra Khubchandani",-,In-progress,885,25-Jun-26,12-Jul-26,
+267,LN29004HP21-22006777,"Customer Request",Foreclosure,Urgent,"Yash Verma","Credit & Risk","Jaipur Kalwar Road","Mahendra Khubchandani",-,In-progress,-," 8-Jul-26",12-Jul-26,
+268,LN33088HE23-24015528,"Customer Deliverables","Foreclosure Request",Urgent,"Pushpender Kumar","Credit & Risk",Haridwar,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+269,"please dispatch laptop of  employee name upender and employee  id : 508792 to kushaiguda",IT,"Laptop / Desktop",High,"Bhasker Sapa",Operations,"Hyderabad Kushaiguda","Rajat Sharma",-,In-progress,-," 9-Jul-26",12-Jul-26,
+270,LN12034AB23-24012617,"Customer Request",Foreclosure,Urgent,"Patel Navnitbhai","Credit & Risk",Ahmedabad,"Mahendra Khubchandani",-,In-progress,-," 8-Jul-26",12-Jul-26,
+271,"Unable to connect WIFI from personal hotspot",IT,"Internet / Network Access",Urgent,"Nanthakumar V","Credit & Risk",Vellore,"Avinash Pathak",-,In-progress,-,24-Jun-26,12-Jul-26,"I tried to reach you but unable to connect, Kindly try to connect another mobile's hotspot"
+272,LN12034HP24-25021072,"Customer Deliverables","Foreclosure Request",Urgent,"Hardik Shah","Credit & Risk",Naroda,"Manak Jangid",-,Open,885," 2-Jul-26",12-Jul-26,
+273,LN29110HE24-25026390,"Customer Deliverables","Foreclosure Request",Urgent,"Ashutosh Pancholi","Credit & Risk",Begun,"Mahendra Khubchandani",-,In-progress,-," 8-Jul-26",12-Jul-26,
+274,LN29004HP23-24013858,"Customer Request","Part payment",Urgent,"Yash Verma","Credit & Risk","Jaipur Kalwar Road","Pulkit Gupta",-,In-progress,-," 9-Jul-26",12-Jul-26,
+275,LN29018HE24-25029327,"Customer Request",Foreclosure,Low,"Deepak Kalra","Credit & Risk",Baran,"Mahendra Khubchandani",-,In-progress,666003," 3-Jul-26",12-Jul-26,
+276,LN17043HE24-25022515,"Customer Deliverables","Foreclosure Request",Urgent,"Suman Kumar","Credit & Risk","Bengaluru Yelahanka","Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+277,LN12037HC23-24017582,"Customer Request","Disbursal Related",Urgent,"Kariyaniya Minaj Sufiyan","Credit & Risk",Botad,"Pulkit Gupta",-,Re-Open,1258," 8-Jul-26",12-Jul-26,"Dear Team,
+
+Kindly provide below mention documents for loan Downsize.
+
+1. Supplementary Loan Agreement with all borrower’s sign Revised require due to over-writting. 
+"
+278,"LN21067BT25-26034265 ","Customer Deliverables","Foreclosure Request",Urgent,"Anil Ganesh Varpe","Credit & Risk",Aurangabad,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+279,LN33113HE25-26031777,"Customer Deliverables","Foreclosure Request",Urgent,"Puneet Pandey","Credit & Risk",Bareilly,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+280,"Kindly dispatched CPU in Aligarh Branch for Credit Officer.",IT,"Laptop / Desktop",Low,"Ankit Kumar","Credit & Risk",Aligarh,"Rajat Sharma",-,In-progress,-," 3-Jul-26",12-Jul-26,
+281,LN12101HP24-25022108,"Customer Request","Part payment",Urgent,"Atulkumar Ahir","Credit & Risk",Surat,"Pulkit Gupta",-,In-progress,50000," 9-Jul-26",12-Jul-26,
+282,"	LN17043HP24-25020394","Customer Deliverables","Foreclosure Request",Urgent,"Suman Kumar","Credit & Risk","Bengaluru Yelahanka","Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+283,LN21067TU25-26034378,"Customer Deliverables","Foreclosure Request",Urgent,"Anil Ganesh Varpe","Credit & Risk",Aurangabad,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+284,LN34064HE22-23011509,"Customer Deliverables","Foreclosure Request",Urgent,"Dev Singh","Credit & Risk",Rishikesh,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+285,LN21067HC24-25025246,"Customer Deliverables","Foreclosure Request",Urgent,"Anil Ganesh Varpe","Credit & Risk",Aurangabad,"Manak Jangid",-,Open,885," 3-Jul-26",12-Jul-26,
+286,LN12107HP25-26032942,"Customer Request",Foreclosure,Urgent,"Rinki Yadav","Credit & Risk",Gandhidham,"Mahendra Khubchandani",-,In-progress,0," 6-Jul-26",12-Jul-26,
+287,LN34031HC24-25023671,"Customer Request","Part payment",Urgent,"Pritam Rana","Credit & Risk",Dehradun,"Pulkit Gupta",-,In-progress,-," 9-Jul-26",12-Jul-26,
+288,"Co applicant Mr Yasin moosa MICR code can't add",IT,"Software / Applications",Urgent,"Ramachandran L","Credit & Risk",Dindigul,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+289,LN12076HP25-26032014,"Customer Deliverables","Foreclosure Request",Urgent,"Nimje Kishor","Credit & Risk",Surat,"Mahendra Khubchandani",-,In-progress,885,23-Jun-26,12-Jul-26,
+290,LN12091HE24-25028647,"Customer Deliverables","Foreclosure Request",Urgent,"Bhatiya Vinodbhai","Credit & Risk",Nadiad,"Mahendra Khubchandani",-,In-progress,885,24-Jun-26,12-Jul-26,
+291,LN29004HP24-25026784,"Customer Deliverables","Foreclosure Request",Urgent,"Yash Verma","Credit & Risk","Jaipur Kalwar Road","Manak Jangid",-,Open,-," 7-Jul-26",12-Jul-26,
+292,"Requesting for laptop Replacement ",IT,"Laptop / Desktop",Urgent,"B R Ananda",Sales,"Bengaluru Banashankari","Rajat Sharma",-,Open,-,29-May-26,12-Jul-26,"Dear team,
+kindly update the status or kindly share the POD number for the same.
+"
+293,LN29006HP24-25029409,"Customer Deliverables","Foreclosure Request",Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Manak Jangid",-,Open,-," 7-Jul-26",12-Jul-26,
+294,LN21065HE23-24016754,"Customer Deliverables","List of documents",Low,"Bhavana Kulkarni","Credit & Risk",Nashik,"Hitesh Jyotishi",-,Open,885,13-May-25,12-Jul-26,"LN21065HE23-24016754 : - LOD attached."
+295,LN37056HE25-26032465,"Customer Deliverables","Foreclosure Request",High,"Irukulla Himaja","Credit & Risk","Hyderabad Kukatpally","Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+296,LN29026HC21-22004972,"Customer Deliverables","Foreclosure Request",Low,"Pankaj Daiyya","Credit & Risk",Beawar,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+297,LN37056TU25-26033728,"Customer Deliverables","Foreclosure Request",High,"Irukulla Himaja","Credit & Risk","Hyderabad Kukatpally","Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+298,LN12036HP24-25024953,"Customer Deliverables","Foreclosure Request",Urgent,"Kanzariya Bharatbhai","Credit & Risk",Morbi,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+299,"Requesting Visiting Cards for Salem Branch.",Admin,"Visiting Cards",Urgent,"Anbarasan K","Credit & Risk",Salem,"Deepak Sain",-,In-progress,-," 9-Jul-26",12-Jul-26,"Vc card 
+NAME
+DESIGNATION
+CONTACT NUMBER
+MAIL ID
+Location 
+Emp Code 
+
+Send details. 
+"
+300,"Request to provide Original hardcopy of OFFER LETTER CUM APPOINTMENT LETTER",,Others_HR,Urgent,"Rajeev Ranjan",Sales,Haridwar,Yogita,-,In-progress,-,17-Jun-25,12-Jul-26,
+301,LN20062HE23-24013942,"Customer Deliverables","Foreclosure Request",Medium,"Abhay Mourya","Credit & Risk",Ratlam,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+302,LN29009HP23-24015092,"Customer Deliverables","Foreclosure Request",Urgent,"Lokesh Chandra","Credit & Risk",Jodhpur,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+303,LN20040HP24-25027496,"Customer Request",Foreclosure,Urgent,"Sumit Yadamray","Credit & Risk",Indore,"Mahendra Khubchandani",-,In-progress,0," 6-Jul-26",12-Jul-26,
+304,LN29006HP25-26042905,"Customer Deliverables","Foreclosure Request",Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Manak Jangid",-,Open,-," 7-Jul-26",12-Jul-26,
+305,LN29013BT24-25030856,"Customer Deliverables","Foreclosure Request",Urgent,"Rahul Verma","Credit & Risk",Kota,"Manak Jangid",-,Open,-," 3-Jul-26",12-Jul-26,
+306,LN29023HE23-24016558,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Tailor","Credit & Risk",Bhilwara,"Mahendra Khubchandani",-,In-progress,-,25-Jun-26,12-Jul-26,"If customer Have both Loan Please Raise Request from both"
+307," LN29013TU25-26033963 ","Customer Deliverables","Foreclosure Request",Urgent,"Rahul Verma","Credit & Risk",Kota,"Manak Jangid",-,Open,-," 3-Jul-26",12-Jul-26,
+308,LN29006HP23-24017694,"Customer Deliverables","Foreclosure Request",Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Manak Jangid",-,Open,-," 7-Jul-26",12-Jul-26,
+309,"VPN Access",IT,"VPN Access",High,"Mahesh Babu K","Credit & Risk",Hosur,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+310,LN21068HC24-25028323,"Customer Request",Foreclosure,High,"Prathamesh Sutar","Credit & Risk",Kolhapur,"Mahendra Khubchandani",-,In-progress,-," 9-Jul-26",12-Jul-26,
+311," LN29026BT24-25021317","Customer Deliverables","Foreclosure Request",Low,"Pankaj Daiyya","Credit & Risk",Beawar,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+312,LN29026TU24-25022118,"Customer Deliverables","Foreclosure Request",Low,"Pankaj Daiyya","Credit & Risk",Beawar,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+313,LN29095HP25-26040025,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Sharma","Credit & Risk",Bijainagar,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+314,"My dashboard is not working since Wednesday.",IT,"Software / Applications",High,"Rajkumar Sikarwar",Sales,"Indore Dwarkapuri",Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+315,LN12100HE24-25031040,"Customer Deliverables","Foreclosure Request",Urgent,"Prashantkumar Pithaya","Credit & Risk",Dahod,"Mahendra Khubchandani",-,In-progress,884,24-Jun-26,12-Jul-26,
+316,LN29094HC23-24017838,"Customer Deliverables","Foreclosure Request",Medium,"Devendra Rathore","Credit & Risk",SHAHPURA_BHL,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+317,"System problem",IT,"Laptop / Desktop",Urgent,"Vaibhav Upadhyay",Sales,Dehradun,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+318,"	LN37073HE24-25026274","Customer Deliverables","Foreclosure Request",Urgent,G,"Credit & Risk",Sangareddy,"Manak Jangid",-,Open,885," 2-Jul-26",12-Jul-26,
+319,LN17048HC23-24013642,"Customer Deliverables","Foreclosure Request",High,"Tejesh D R","Credit & Risk",Mysuru,"Manak Jangid",-,Open,885,30-Jun-26,12-Jul-26,
+320,LN33141HE25-26036626,"Customer Deliverables","Foreclosure Request",Urgent,"Shivendra Saxena","Credit & Risk","Lucknow Transport Nagar","Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+321,"REGARIDNG TELEPHONE ISSUE OF OUR DHAR BRANCH",IT,Other,High,"Sandeep Kumar","Credit & Risk",Dhar,"Chhail Jangid",-,Re-Open,-,30-Jun-26,12-Jul-26,"Now i have logout, Now you can restart device and login again.
+Please reopen the ticket if issue reoccurs
+"
+322,"libreoffice is Not Working Please Update or Install MS Office",IT,"Laptop / Desktop",Urgent,"Ajay Tanwar",Sales,"Jaipur Kalwar Road",Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+323,LN29010HP25-26032735,"Customer Deliverables","Foreclosure Request",Medium,"Parag Sharma","Credit & Risk",Chittorgarh,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+324,"ATTENDANCE  PUNCH IN AND PUNCH OUT MAP IN MY ID LOCATION -ALWAR E CODE - 506508",,"ESS / HRMS / Sahasth",Urgent,"Yogendra Singh","Collection & Legal",Alwar,"Vaishali Singh",-,Re-Open,-,24-Jul-25,12-Jul-26,"this will get resolve by today EOD
+"
+325,LN20089HP24-25023007,"Customer Request","Disbursal Related",Urgent,"Harsh Mishra","Credit & Risk","Indore Dwarkapuri","Pulkit Gupta",-,Re-Open,-," 3-Jul-26",12-Jul-26,"Dear Team,
+
+Kindly provide below mention documents for loan Downsize.
+
+1. DPN with revenue stamp all borrower’s sign Require
+2. Supplementary Loan Agreement with all borrower’s sign Require
+"
+326,LN29095HE25-26036576,"Customer Request","Part payment",Urgent,"Deepak Sharma","Credit & Risk",Bijainagar,"Pulkit Gupta",-,In-progress,250000,10-Jul-26,12-Jul-26,
+327,"RMs Desktop mail access not Working",IT,"Laptop / Desktop",High,"Kumar  Rudravaram",Sales,Choutuppal,"Nirbhay Kumar",-,In-progress,-," 8-Jul-26",12-Jul-26,"Please share emp id for RMs."
+328,"Kindly Map The Scanner -Akola",IT,"Printer / Scanner",High,"Akshay Mahale","Credit & Risk",Akola,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+329,"Kindly Map The Printer-Akola",IT,"Printer / Scanner",High,"Akshay Mahale","Credit & Risk",Akola,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+330,LN12112HE26-27045420,"Customer Request","Part payment",High,"Vyas Nilkanthray","Credit & Risk",Godhra,"Pulkit Gupta",-,In-progress,200000,10-Jul-26,12-Jul-26,
+331,LN29021HC23-24018912,"Customer Deliverables","Foreclosure Request",High,"Bheru Sharma","Credit & Risk",Alwar,"Manak Jangid",-,Open,-,27-Jun-26,12-Jul-26,
+332,"Visiting Cards REQUEST",Admin,"Visiting Cards",High,"Gaurav  Saxena",Sales,Bareilly,"Deepak Sain",-,In-progress,-," 9-Jul-26",12-Jul-26,
+333,LN20114HE25-26035643,"Customer Deliverables","Foreclosure Request",High,"Sandeep Mishra","Credit & Risk",Bhopal,"Manak Jangid",-,Open,-," 2-Jul-26",12-Jul-26,
+334,"Kindly Map the Printer",IT,"Printer / Scanner",High,"Akshay Mahale","Credit & Risk",Akola,Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+335,LN29023BT23-24014485,"Customer Request",Foreclosure,Urgent,"Deepak Tailor","Credit & Risk",Bhilwara,"Mahendra Khubchandani",-,In-progress,-," 1-Jul-26",12-Jul-26,
+336,LN29012HC19-20000852,"Customer Deliverables","List of documents",Urgent,"Abhishek Singh",Operations,Rajsamand,"Sunil Rajwaniya",-,Re-Open,885,14-Oct-21,12-Jul-26,"LN29012HC19-20000852:-please attached customer kyc"
+337,"Dear Team, Lap Top Not Working properly so need your help..",IT,"Laptop / Desktop",Urgent,"Meniya Jorubhai","Credit & Risk",Morbi,"Avinash Pathak",-,In-progress,-,25-Jun-26,12-Jul-26,
+338,"Dashboard Data not showing",Analytics,"Dashboard Reports Issue",Medium,"Dhirendra Tomar",Sales,Ujjain,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+339,LN29004HP24-25029573,"Customer Deliverables","Foreclosure Request",Urgent,"Yash Verma","Credit & Risk","Jaipur Kalwar Road","Manak Jangid",-,Open,-,25-Jun-26,12-Jul-26,
+340,LN21085AB25-26042505,"Customer Request","Disbursal Related",Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,"Pulkit Gupta",-,Re-Open,-,28-Jun-26,12-Jul-26,"Dear Team, 
+
+Kindly provide CAM report. "
+341,LN29019HE22-23009079,"Customer Deliverables","Foreclosure Request",Urgent,"Aman Sain","Credit & Risk",Kotputli,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+342,LN17069HC23-24018280,"Customer Request","Part payment",Urgent,"Yuvaraju M R","Credit & Risk",Tumakuru,"Pulkit Gupta",-,In-progress,0,10-Jul-26,12-Jul-26,
+343,LN20081BT24-25026279,"Customer Request","Part payment",Urgent,"Nandini Solanki","Credit & Risk",Khargone,"Pulkit Gupta",-,In-progress,50000,10-Jul-26,12-Jul-26,
+344,LN29025HC22-23010913,"Customer Request",Foreclosure,Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,"Mahendra Khubchandani",-,In-progress,-," 7-Jul-26",12-Jul-26,
+345,LN29030IP22-23009334,"Customer Deliverables","Foreclosure Request",Urgent,"Dhiraj Sharma","Credit & Risk",Ratangarh,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+346,LN29096TU24-25021031,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Rathi","Credit & Risk",Phulera,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+347,"CERSAI EXCEL NOT RUN",IT,Other,Medium,"Monika Nagwanshi","Credit & Risk",Chhindwara,Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+348,LN34031HP23-24012290,"Customer Deliverables","Foreclosure Request",Urgent,"Atul Bhatt","Credit & Risk",Dehradun,"Manak Jangid",-,Open,-,25-Jun-26,12-Jul-26,
+349,"LN29096BT24-25020952 ","Customer Deliverables","Foreclosure Request",Low,"Deepak Rathi","Credit & Risk",Phulera,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+350,"EXCELL And Word Any windows Not Open ",IT,"Windows / Linux (Ubuntu)",Urgent,"Ranjith L K",Sales,Hassan,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+351,LN29095HC23-24019451,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Sharma","Credit & Risk",Bijainagar,"Manak Jangid",-,Open,885,30-Jun-26,12-Jul-26,
+352,"Requesting for LAPTOP // Kalakanagouda Hiregoudra // 508924 // Hubli location",IT,"Laptop / Desktop",Urgent,"Chandrashekara  G","Credit & Risk",Davangere,"Rajat Sharma",-,In-progress,-," 9-Jul-26",12-Jul-26,
+353,LN29095HC24-25021834,"Customer Deliverables","Foreclosure Request",Urgent,"Deepak Sharma","Credit & Risk",Bijainagar,"Manak Jangid",-,Open,885,30-Jun-26,12-Jul-26,
+354,LN21085AB24-25024472,"Customer Request",Foreclosure,Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,"Mahendra Khubchandani",-,In-progress,-," 7-Jul-26",12-Jul-26,
+355,LN20114HE24-25029875,"Customer Deliverables","Foreclosure Request",High,"Sandeep Mishra","Credit & Risk",Bhopal,"Manak Jangid",-,Open,-," 2-Jul-26",12-Jul-26,
+356,"port issue",IT,"Laptop / Desktop",Low,"Kakaraparthi  Manashshe",Sales,Rajahmundry,"Rajat Sharma",-,In-progress,-," 7-Jul-26",12-Jul-26,
+357,LN34031HC25-26040633,"Customer Deliverables","Foreclosure Request",Urgent,"Pritam Rana","Credit & Risk",Dehradun,"Mahendra Khubchandani",-,In-progress,885,23-Jun-26,12-Jul-26,
+358,LN12059HP24-25023271,"Customer Deliverables","Foreclosure Request",Urgent,"Trivedi Harsh","Credit & Risk",Jamnagar,"Manak Jangid",-,Open,885," 1-Jul-26",12-Jul-26,
+359,"LN34079HC24-25024954 ","Customer Deliverables","Foreclosure Request",Urgent,"Mushahid Malik","Credit & Risk",Haldwani,"Manak Jangid",-,Open,885," 8-Jul-26",12-Jul-26,
+360,LN21085HC24-25030127,"Customer Deliverables","Foreclosure Request",Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+361,LN37056HE24-25026421,"Customer Request",Foreclosure,High,"Irukulla Himaja","Credit & Risk","Hyderabad Kukatpally","Mahendra Khubchandani",-,In-progress,0," 7-Jul-26",12-Jul-26,
+362,"Please arrange Tab and Lap top for new joining Member Mr. Vishvjit Suru - 508873 at Rajkot for BCM post. ",IT,"Laptop / Desktop",Urgent,"Narendra Singh Sisodiya","Credit & Risk",Rajkot,"Rajat Sharma",-,In-progress,-," 7-Jul-26",12-Jul-26,
+363,LN20128HE25-26033990,"Customer Deliverables","Foreclosure Request",Medium,"Monika Nagwanshi","Credit & Risk",Chhindwara,"Manak Jangid",-,Open,885," 8-Jul-26",12-Jul-26,
+364,LN20040HE24-25025910,"Customer Deliverables","Foreclosure Request",Urgent,"Arun Chhapre","Credit & Risk",Indore,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+365,"application not working E code 506397",,Others_HR,Urgent,"Neeraj Sharma",Sales,"Jaipur DCM","Avani Saxena",-,Re-Open,-,29-Sep-25,12-Jul-26,"Dear Employee, 
+
+please mention your issue."
+366,LN29003HC21-22004269,"Customer Deliverables","Foreclosure Request",Urgent,"Sawan Bhargav","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Open,885," 2-Jul-26",12-Jul-26,
+367,LN29006HC25-26038354,"Customer Request","Disbursal Related",Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Pulkit Gupta",-,Re-Open,-," 8-Jul-26",12-Jul-26,"Dear Team,
+
+Kindly provide below mention documents for loan Downsize.
+
+1. Supplementary Loan Agreement with all borrower’s sign Revise require due to not fil properly
+"
+368,LN29013HC25-26033244,"Customer Deliverables","Foreclosure Request",Low,"Rahul Verma","Credit & Risk",Kota,"Mahendra Khubchandani",-,In-progress,-,20-Jun-26,12-Jul-26,
+369,LN20082HP24-25024477,"Customer Request",Foreclosure,Medium,"Sandeep Kumar","Credit & Risk",Dhar,"Mahendra Khubchandani",-,In-progress,1169818," 1-Jul-26",12-Jul-26,
+370,LN20040HP23-24013587,"Customer Request",Foreclosure,Urgent,"Arun Chhapre","Credit & Risk",Indore,"Mahendra Khubchandani",-,In-progress,1019532," 6-Jul-26",12-Jul-26,
+371,LN34045HC23-24017979,"Customer Deliverables","Foreclosure Request",Urgent,"Sane Parvej","Credit & Risk",Rudrapur,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+372,LN29024HE24-25024322,"Customer Deliverables","Foreclosure Request",Low,"Rahul Verma","Credit & Risk",Ajmer,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+373,"LN29006HP19-20001414	","Customer Deliverables","List of documents",Urgent,"Raj Gour",Operations,"Jaipur DCM","Sunil Rajwaniya",-,In-progress,-,10-Nov-21,12-Jul-26,
+374,"Requesting for my system is very slow working.",IT,"Laptop / Desktop",Urgent,"Sagar H V","Credit & Risk",Mysuru,"Rajat Sharma",-,In-progress,-,27-Jun-26,12-Jul-26,"Dear Rajat, 
+
+Please send another CPU. This CPU is working with the HDD, so please replace it."
+375,LN21066HP24-25020593,"Customer Deliverables","Foreclosure Request",Urgent,"Pranavsingh Pardeshi","Credit & Risk",Ahmednagar,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+376,LN29009HP22-23008105,"Customer Deliverables","Foreclosure Request",Urgent,"Lokesh Chandra","Credit & Risk",Jodhpur,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+377,"Pls provide VPN access",IT,"VPN Access",Urgent,"Sandeep  Chhalotre",Technical,Indore,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+378,LN12036BT22-23010662,"Customer Deliverables","Foreclosure Request",Urgent,"Kishan Gandhi","Credit & Risk",Rajkot,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+379,"VPN is not working ",IT,"VPN Access",Urgent,"Rahul  Singh","Credit & Risk",Dehradun,"Avinash Pathak",-,In-progress,-,26-Jun-26,12-Jul-26,
+380,LN29011HP22-23012104,"Customer Deliverables","Foreclosure Request",Urgent,"Karmveer Chouhan","Credit & Risk",Dungarpur,"Manak Jangid",-,Open,-,10-Jul-26,12-Jul-26,
+381,LN29017HE22-23009400,"Customer Deliverables","Foreclosure Request",Urgent,"Kuldeep Vijay","Credit & Risk",Tonk,"Manak Jangid",-,Open,885," 2-Jul-26",12-Jul-26,
+382,"libra office not working",IT,"Laptop / Desktop",Urgent,"Mohd  Javed",Sales,Meerut,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+383,LN17047HP23-24017000,"Customer Deliverables","Foreclosure Request",Urgent,"Vineeth V","Credit & Risk","Bengaluru Ramamurthy Nagar","Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,"Dear Sir,
+
+we taken SOA Approval from Shanker sir , so customer Not getting convinced . kindly make initiation to provide FCL "
+384,LN12036TU22-23011453,"Customer Deliverables","Foreclosure Request",Low,"Kishan Gandhi","Credit & Risk",Rajkot,"Manak Jangid",-,Open,885," 6-Jul-26",12-Jul-26,
+385,LN12074HE23-24015742,"Customer Request",Foreclosure,Urgent,"Ashish Shah","Credit & Risk",Bharuch,"Mahendra Khubchandani",-,In-progress,611217," 7-Jul-26",12-Jul-26,"Dear team,
+                     Please close loan"
+386,LN12071HC26-27046602,"Customer Request",Others,Urgent,"Shreya Joshi","Credit & Risk",Vadodara,"Mahendra Khubchandani",-,In-progress,0," 9-Jul-26",12-Jul-26,
+387,"laptop configure",IT,"Laptop / Desktop",Urgent,"Mohd Salman","Credit & Risk",Meerut,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+388,LN29014AB23-24013662,"Customer Request",Foreclosure,Urgent,"Saddam Husain","Credit & Risk",Sikar,"Mahendra Khubchandani",-,In-progress,-," 8-Jul-26",12-Jul-26,
+389,LN12034BT21-22003856,"Customer Deliverables","List of documents",Urgent,"Mittal Patel",Operations,Narol,"Sunil Rajwaniya",-,In-progress,885,11-Nov-21,12-Jul-26,
+390,LN29025HC20-21002665,"Customer Deliverables","Foreclosure Request",Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,"Manak Jangid",-,Open,885," 8-Jul-26",12-Jul-26,
+391,LN21055AB24-25022178,"Customer Deliverables","Foreclosure Request",High,"Akshay Fengse","Credit & Risk","Pune Pimpri ","Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+392,"Libre office not working",IT,"Microsoft Office / Libre Office",Urgent,"Vivek Kumar Singh",Sales,Prayagraj,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+393,LN29004LP19-20000757,"Customer Deliverables","List of documents",Urgent,"Abhijeet Singh",Operations,"Jaipur Kalwar Road","Sunil Rajwaniya",-,In-progress,0,27-Oct-21,12-Jul-26,"Dear sir
+
+Please provide revise FCL"
+394,LN34032HP21-22003925,"Customer Request",Others,Low,"Pushpender Kumar","Credit & Risk",Haridwar,"Mahendra Khubchandani",-,In-progress,-," 6-Jul-26",12-Jul-26,
+395,LN12035HP20-21002464,"Customer Deliverables","List of documents",Urgent,"Mittal Patel",Operations,Narol,"Sunil Rajwaniya",-,In-progress,885,11-Nov-21,12-Jul-26,
+396,"require Bitlocler Key",IT,Other,Urgent,Prajapati,"Credit & Risk",Mehsana,"Dinesh Kumar",-,In-progress,-," 9-Jul-26",12-Jul-26,
+397,"Printer JCO System not printout  recived ",IT,"Printer / Scanner",High,"Jeevan Y","Credit & Risk",Hassan,"Avinash Pathak",-,In-progress,-,22-Jun-26,12-Jul-26,
+398,LN12108HE24-25025762,"Customer Deliverables","Foreclosure Request",Urgent,"Chohla Nileshbhai","Credit & Risk",Bhavnagar,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+399,"Income Assessment - Banking MICR code not saved",IT,"Software / Applications",Urgent,"Venkatachalapathi R","Credit & Risk",Namakkal,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+400,LN29003HP22-23008924,"Customer Deliverables","Foreclosure Request",Urgent,"Juhi Agarwal","Internal Audit","Registered And Head Office","Purva Tripathi",-,Re-Open,885,11-Jul-23,12-Jul-26,"LN29003HP22-23008924
+
+ kindly attach FC request & KYC. "
+401,"Dear Team, we are not able to log in audit queries portel kindly resolve for the same",IT,"Laptop / Desktop",Urgent,"Samroj Elahi","Credit & Risk",Kashipur,"Chhail Jangid",-,In-progress,-,29-Jun-26,12-Jul-26,"Any update on this"
+402,"LAPTOP is not working properly // Chandrasheakra // 503233",IT,"Laptop / Desktop",Urgent,"Chandrashekara  G","Credit & Risk",Davangere,"Avinash Pathak",-,Re-Open,-,26-Jun-26,12-Jul-26,"Remove the Temp file which was huge size & uninstall the unwanted app. Noo laptop working fine."
+403," LN34064HP25-26044258","Customer Request",Foreclosure,Urgent,"Dev Singh","Credit & Risk",Rishikesh,"Mahendra Khubchandani",-,In-progress,-," 6-Jul-26",12-Jul-26,
+404,LN29015TU25-26040165,"Customer Deliverables","Foreclosure Request",Urgent,"Veerpal Singh","Credit & Risk",Sirohi,"Manak Jangid",-,Open,-," 9-Jul-26",12-Jul-26,
+405,"Kindly configure my new laptop",IT,"Laptop / Desktop",Urgent,"Atul Bhatt","Credit & Risk",Dehradun,Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+406,LN29004BT23-24017110,"Customer Deliverables","Foreclosure Request",Urgent,"Yash Verma","Credit & Risk","Jaipur Kalwar Road","Manak Jangid",-,Open,-," 6-Jul-26",12-Jul-26,
+407,"LN37070HP23-24013856 ","Customer Deliverables","Foreclosure Request",High,"Dandu Pranayanitha","Credit & Risk",Warangal,"Manak Jangid",-,Open,885," 8-Jul-26",12-Jul-26,
+408,LN29006HC21-22004046,"Customer Deliverables","Foreclosure Request",Urgent,"Ashish Rathore","Credit & Risk","Jaipur DCM","Manak Jangid",-,Open,-," 7-Jul-26",12-Jul-26,
+409,LN29028HC22-23011790,"Customer Deliverables","Foreclosure Request",Low,"Hemant Kumawat","Credit & Risk",Nimbahera,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+410,LN21085HP24-25024541,"Customer Request","Disbursal Related",Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,"Pulkit Gupta",-,Re-Open,-," 7-Jul-26",12-Jul-26,"Dear Team, 
+
+Case has been downsize in system. 
+
+ROI & NHL tagging will be converted by tomorrow "
+411,"Request email access on Mobile device",IT,Email,Urgent,"Anbarasan K","Credit & Risk",Salem,"Sonu Singh Rajput",-,In-progress,-," 7-Jul-26",12-Jul-26,"can anyone take this please.."
+412,"Limbre office not working",IT,"Laptop / Desktop",Low,"Anandh R",Sales,Erode,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+413," Printer Issue",IT,"Printer / Scanner",Medium,"Deepak Sain","Admin And Infra","Jaipur Malviya Nagar",Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+414,LN29005BT25-26038667,"Customer Deliverables","Foreclosure Request",High,"Vikram Rajawat","Credit & Risk","Jaipur VKI","Manak Jangid",-,Open,-,10-Jul-26,12-Jul-26,
+415,LN34061HC24-25028804,"Customer Deliverables","Foreclosure Request",Urgent,"Sane Parvej","Credit & Risk",Rudrapur,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+416,"Desktop showing error as.The Trust relationship between this workstation and the primary domain failed.",IT,"Laptop / Desktop",Urgent,"Anoop  N","Credit & Risk","Bengaluru T.dasarahalli",Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+417,LN12034HP20-21002367,"Customer Deliverables","List of documents",Urgent,"Mittal Patel",Operations,Narol,"Sunil Rajwaniya",-,In-progress,885," 4-Oct-21",12-Jul-26,"LN12034HP20-21002367 :- LOD attached."
+418," LN2909HC24-25028459 ","Customer Request",Foreclosure,High,"LOKESH RANGA","Credit & Risk",Nokha,"Mahendra Khubchandani",-,In-progress,885," 7-Jul-26",12-Jul-26,
+419,LN29009HE20-21002533,"Customer Deliverables","List of documents",Urgent,"Jayshri .",Operations,Jodhpur,"Sunil Rajwaniya",-,In-progress,885,28-Oct-21,12-Jul-26,
+420,LN29025HE25-26032288,"Customer Deliverables","Foreclosure Request",Urgent,"Dhaval Vaishnav","Credit & Risk",Banswara,"Manak Jangid",-,Open,885," 3-Jul-26",12-Jul-26,
+421,"Dear Sir. as discussed with IT please send me new Laptop due to my current lap top is dead due to mother board issue please on priority / Emp id 507735/ mob no 7263061856/ Designation - BCM / Nashik  ",IT,"Laptop / Desktop",Urgent,"Dinesh Shinde","Credit & Risk",Nashik,"Rajat Sharma",-,In-progress,-," 6-Jul-26",12-Jul-26,"Dear Sir,
+
+We will dispatch another laptop for you "
+422,"Request for Generating ID & Password on GO FTR For File Login",IT,"Software / Applications",Urgent,"Vikas  Gupta",Sales,Zirakpur,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+423,LN34046HE24-25030014,"Customer Deliverables","Foreclosure Request",Urgent,"Abhishek Saini","Credit & Risk",Roorkee,"Mahendra Khubchandani",-,In-progress,-," 7-Jul-26",12-Jul-26,
+424,LN34046HC25-26031673,"Customer Deliverables","Foreclosure Request",Urgent,"Abhishek Saini","Credit & Risk",Roorkee,"Mahendra Khubchandani",-,In-progress,-," 7-Jul-26",12-Jul-26,
+425,"Dear sir MY zing hr is not Working pleas  my device IMEI NO. update   IMEI.1 , 353835880226263   IMEI 2  353901650226261",,Salary,Urgent,"Bane Chouhan",Sales,Dhar,Un-assigned,-,In-progress,-,14-Oct-25,12-Jul-26,
+426,LN31133BT25-26037090,"Customer Deliverables","Foreclosure Request",Urgent,"Shanmugapriya Parames","Credit & Risk",Tiruchirappalli,"Manak Jangid",-,Open,885,24-Jun-26,12-Jul-26,
+427,"#116694 - Dear sir MY zing hr is not Working pleas my device IMEI NO. update IMEI.1 , 353835880226263 IMEI 2 353901650226261   EMP ID 507082 Name Mahesh Suryavanshi Branch Dhar ",,Salary,Urgent,"Bane Chouhan",Sales,Dhar,Un-assigned,-,In-progress,-,14-Oct-25,12-Jul-26,
+428,LN29010HE25-26041608,"Customer Deliverables","Foreclosure Request",Medium,"Parag Sharma","Credit & Risk",Chittorgarh,"Manak Jangid",-,Open,885," 3-Jul-26",12-Jul-26,
+429,LN29009HE21-22005021,"Customer Deliverables","Foreclosure Request",Urgent,"Lokesh Chandra","Credit & Risk",Jodhpur,"Manak Jangid",-,Open,885," 9-Jul-26",12-Jul-26,
+430,"Laptop is Not Open",IT,"Laptop / Desktop",Urgent,"Anil Ganesh Varpe","Credit & Risk",Aurangabad,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+431,LN29012HP24-25024405,"Customer Deliverables","Foreclosure Request",Urgent,"Yash Sharma","Credit & Risk",Rajsamand,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+432,"mouse pointer automatically moved to left side",IT,"Laptop / Desktop",High,"Prashant Tayade",Legal,Aurangabad,Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+433,"Login flle Logged In Unassigned","Credility LOS",Miscellaneous,High,"Abhay Mourya","Credit & Risk",Ratlam,"Laxman Jangir",-,In-progress,-,10-Jul-26,12-Jul-26,
+434,"ZINGHR APP ISSUE",,"Attendance / Leave",Urgent,"Vishvajeet Singh Rawat Rawat",Sales,Ajmer,Un-assigned,-,In-progress,-,14-Oct-25,12-Jul-26,
+435,LN21086HE24-25028955,"Customer Deliverables","Foreclosure Request",Urgent,"Madhavsinh Thakur","Credit & Risk",Nanded,"Manak Jangid",-,Open,885,24-Jun-26,12-Jul-26,
+436,"Wonder PDF Tool is not working",IT,Other,Urgent,"Preethi S","Credit & Risk",Coimbatore,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+437,"MY ZING HR IS NOT WORKING.",,Salary,Urgent,"Arjun Singh",Sales,Dehradun,"Vaishali Singh",-,In-progress,-,13-Aug-25,12-Jul-26,
+438,LN37070HE24-25021963,"Customer Deliverables","Foreclosure Request",Urgent,"Dandu Pranayanitha","Credit & Risk",Warangal,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,"Dear Sir,
+the FCL for the customer was issued on 26.03.2026,
+the customer is visting branch multiple times and he is moving to another bank,
+kindly process update the FCL"
+439,LN17048HC24-25029696,"Customer Request",Foreclosure,High,"Tejesh D R","Credit & Risk",Mysuru,"Mahendra Khubchandani",-,In-progress,0," 9-Jul-26",12-Jul-26,
+440,"LIBRA OFFICE IS NOT WORKING MY LAPTOP EVEN LIBRA OFFICE CALCULATOR IS NOT WORKING",IT,"Laptop / Desktop",Urgent,"Francis Johnbhai Chauhan",Sales,Naroda,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+441,LN12034HP25-26035837,"Customer Deliverables","Foreclosure Request",Urgent,"Patel Navnitbhai","Credit & Risk",Ahmedabad,"Manak Jangid",-,Open,-," 7-Jul-26",12-Jul-26,
+442,LN29003HE20-21003563,"Customer Deliverables","List of documents",Urgent,"Raj Gour",Operations,"Jaipur DCM","Sunil Rajwaniya",-,Re-Open,-,19-Oct-21,12-Jul-26,"LN29003HE20-21003563:-please attached proper kyc with self attested"
+443,"excel word sheet not working  ",IT,"Laptop / Desktop",Urgent,"Nitesh  Kumar",Sales,"Jaipur Kalwar Road",Un-assigned,-,Pending,-," 9-Jul-26",12-Jul-26,
+444,"LN21085HC24-25029816 ","Customer Deliverables","Foreclosure Request",Urgent,"Vishal Kamalakar Solunke","Credit & Risk",Latur,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+445,LN29003HP20-21003546,"Customer Deliverables","List of documents",Urgent,"Raj Gour",Operations,"Jaipur DCM","Sunil Rajwaniya",-,Re-Open,-,19-Oct-21,12-Jul-26,"LN29003HP20-21003546:-customer attached proper attached kyc"
+446,LN29090BT24-25025295,"Customer Deliverables","Foreclosure Request",Urgent,"Kuldip Chouhan","Credit & Risk",Sagwara,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+447,LN29090TU24-25025365,"Customer Deliverables","Foreclosure Request",Urgent,"Kuldip Chouhan","Credit & Risk",Sagwara,"Manak Jangid",-,Open,885,29-Jun-26,12-Jul-26,
+448,LN17069HE24-25030680,"Customer Deliverables","Foreclosure Request",Urgent,"Yuvaraju M R","Credit & Risk",Tumakuru,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+449,LN17069HC25-26032446,"Customer Deliverables","Foreclosure Request",Urgent,"Yuvaraju M R","Credit & Risk",Tumakuru,"Manak Jangid",-,Open,885,10-Jul-26,12-Jul-26,
+450,"Income Assessment - Banking MICR code not saved",IT,"Software / Applications",Urgent,"Venkatachalapathi R","Credit & Risk",Namakkal,"Avinash Pathak",-,In-progress,-,10-Jul-26,12-Jul-26,
+451,"SYSTEM NOT WORKING PROPERLY",IT,"Laptop / Desktop",Urgent,"Ritesh Nama",Operations,"Jaipur Malviya Nagar","Dinesh Kumar",-,In-progress,-," 3-Jul-26",12-Jul-26,
+452,"Please issue the laptop for BSM",IT,"Laptop / Desktop",Urgent,"Mohd Salman","Credit & Risk",Meerut,"Rajat Sharma",-,In-progress,-," 8-Jul-26",12-Jul-26,"Dear Sir,
+
+We will dispatch the laptop soon"
+453,"Dear Team,Please Provide ID Card Emp.code 508599 Emp. Name Vishal Sharma",Admin,"ID Card",Urgent,"Raghuraj  Singh",Sales,"Jaipur Kalwar Road","Deepak Sain",-,In-progress,-,10-Jul-26,12-Jul-26,
+454,LN20040HP21-22004943,"Customer Request",Foreclosure,High,"Arun Chhapre","Credit & Risk",Indore,"Mahendra Khubchandani",-,In-progress,137560,27-Jun-26,12-Jul-26,
+455,LN37056HE23-24016046,"Customer Deliverables","Foreclosure Request",High,"Irukulla Himaja","Credit & Risk","Hyderabad Kukatpally","Manak Jangid",-,Open,885," 3-Jul-26",12-Jul-26,
+456,LN34031HC24-25022806,"Customer Deliverables","Foreclosure Request",Urgent,"Pritam Rana","Credit & Risk",Dehradun,"Mahendra Khubchandani",-,In-progress,885,24-Jun-26,12-Jul-26,
+457,"Required new laptop for Name :- Narendrasinh Gohil Emp Code :- 501162 Branch :- Ahmedabad, Gujarat Designation :- Deputy Collection Manager ( Entire Gujarat ) ",IT,"Laptop / Desktop",Urgent,"Vala Dharmendrasinh","Collection & Legal",Ahmedabad,"Rajat Sharma",-,In-progress,-,10-Jul-26,12-Jul-26,
+458,LN34031TU25-26035003,"Customer Deliverables","Foreclosure Request",High,"Pritam Rana","Credit & Risk",Dehradun,"Mahendra Khubchandani",-,In-progress,885,24-Jun-26,12-Jul-26,
+459,LN29003HC23-24017454,"Customer Deliverables","Foreclosure Request",Urgent,"Sawan Bhargav","Credit & Risk","Jaipur C Scheme","Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+460,"Regarding access of outlook/Email services in mobile phone of Mr. Aditya Prakash Upadhyay (504340)",IT,Email,Urgent,"Aditya Upadhyay",Sales,Jodhpur,Un-assigned,-,Pending,-,10-Jul-26,12-Jul-26,
+461,LN29017HC21-22006000,"Customer Deliverables","Foreclosure Request",Urgent,"Kuldeep Vijay","Credit & Risk",Tonk,"Manak Jangid",-,Open,885," 7-Jul-26",12-Jul-26,
+462,"NAME - VIRENDRA SINGH RATHORE ",IT,Email,Urgent,"Devraj Chouhan",Sales,Rajsamand,Un-assigned,-,Pending,-," 8-Jul-26",12-Jul-26,
+463,"Zink HR Not Working",,"ESS / HRMS / Sahasth",Urgent,"Krishan Sharma","Collection & Legal","Jaipur VKI",Un-assigned,-,Pending,-,15-Oct-25,12-Jul-26,
+464,"Mail not Forward and replay",IT,Email,Urgent,"Pansuriya  Hardik",Sales,Chandkheda,Un-assigned,-,Pending,-,29-Jun-26,12-Jul-26,
+465,"OUR BM SIR LAPTOP ON ISSUE",IT,"Laptop / Desktop",Urgent,G,"Credit & Risk",Sangareddy,Un-assigned,-,Pending,-,30-Jun-26,12-Jul-26,
+466,"Printer not working in my laptop",IT,"Printer / Scanner",High,"Rapolu Sunitha",Sales,"Hyderabad Kukatpally",Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+467,"Printer configration req for Kengeri branch",IT,"Printer / Scanner",Urgent,Pradeepa,"Credit & Risk","Bengaluru Kengeri",Un-assigned,-,Pending,-," 2-Jul-26",12-Jul-26,
+468,"unable to punch-in & punch-out",,"Attendance / Leave",Urgent,"Dhruv Goyal",Technical,Kota,Un-assigned,-,Pending,-,15-Oct-25,12-Jul-26,
+469,"Please release the pending salary of Mr. Navab Singh Emp ID - 504191.",,"Attendance / Leave",High,"Ankit Kumar","Credit & Risk",Aligarh,Un-assigned,-,Pending,-,10-Oct-25,12-Jul-26,
+470,"Please add my current role ",IT,"Software / Applications",Urgent,"Yogesh Singh Bhati",Sales,Jodhpur,Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+471," IFSC code in not reflecting credility app","Data Center","Server Related Issue",High,"Sagar  Shabu Gasti",Sales,Belagavi,Un-assigned,-,Pending,-,11-Jun-26,12-Jul-26,
+472,"REQUIRED INTERNET ACCESS TO TECHNICAL MANAGER ",IT,"Internet / Network Access",High,"Vijaya Kumara K S","Credit & Risk",Nelamangala,Un-assigned,-,Pending,-,29-Jun-26,12-Jul-26,
+473,"DEAR SIR SURENDRANGAR BRANCH 506446 RAJU JADAV LWD 10-10-2025 SO PLEASE DEACTIVATE MY ALL OMNI ID PASSWORD I AM NOT RESPONSIBLE OF ANYTHING HAPPEN",,Others_HR,Urgent,"Jadav Govindbhai","Credit & Risk",Surendranagar,Un-assigned,-,Pending,-,10-Oct-25,12-Jul-26,
+474,"Attendance not punching in",,"Attendance / Leave",Urgent,"Abhishek Thakur",Sales,Sagar,Un-assigned,-,Pending,0,11-Oct-25,12-Jul-26,
+475,LXBHL02922-230017487,"Sub-Sequent Disbursal","Sub-Sequent Disbursal through Customer APP",Medium,,N/A,,Un-assigned,-,Pending,-," 8-Dec-25",12-Jul-26,
+476,"ASHWIN PADHIYAR EMP CODE 501723 MAY Zing HR  LOCKED NEW PASWOOD PROVDI",,"ESS / HRMS / Sahasth",Low,"Padhiyar Ashvinkumar Chimanbhai",Sales,Anand,Un-assigned,-,Pending,-,13-Oct-25,12-Jul-26,
+477,"ATTENDANCE NOT PUNCHING",,"Attendance / Leave",Urgent,Maneesha,Sales,Dehradun,Un-assigned,-,Pending,-,13-Oct-25,12-Jul-26,
+478,"I can't Attendance  More Than 10 Days ",,"Attendance / Leave",Urgent,"Gohil Surubha",Sales,Bhavnagar,Un-assigned,-,Pending,-,11-Oct-25,12-Jul-26,
+479,"please check Unable to puch in and puch out ",,"Attendance / Leave",Urgent,"Gajendra Singh","Collection & Legal","Registered And Head Office",Un-assigned,-,Pending,-,15-Oct-25,12-Jul-26,
+480,"Please update IMAI no. on zing HR ",,Others_HR,Urgent,"Ashi Yadav","Credit & Risk",Ujjain,Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+481,"Please update mail .",IT,"Laptop / Desktop",High,"Rajkamal Chawla",Sales,"Jaipur C Scheme",Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+482,LXBHL02922-230017487,"Sub-Sequent Disbursal","Sub-Sequent Disbursal through Customer APP",Medium,,N/A,,Un-assigned,-,Pending,-,15-Dec-25,12-Jul-26,
+483,"Zing HR Not working",,"Attendance / Leave",Urgent,"Lavendra  Singh",Sales,"Jaipur DCM",Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+484,"Dear Team Laptop is not work ",IT,"Laptop / Desktop",Urgent,"Shah Mittalkumar Mukeshkumar",Sales,Naroda,Un-assigned,-,Pending,-," 1-Jul-26",12-Jul-26,
+485,"Zing HR  not Working in phone",,"Attendance / Leave",Urgent,"Vikram Rawat",Sales,Dehradun,Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+486,"Requesting Printer configuration for 504187",IT,"Printer / Scanner",High,"Koduru Kumar","Credit & Risk",Kurnool,Un-assigned,-,Pending,-," 7-Jul-26",12-Jul-26,
+487,"unable to printing showing error at the time of print   ",IT,"Printer / Scanner",Urgent,"Pipadalli Beerappa",Sales,Sangareddy,Un-assigned,-,Pending,-," 2-Jul-26",12-Jul-26,
+488,"Emp id- 508561",IT,"Laptop / Desktop",Urgent,"MAHESH SAINI",Sales,"Jaipur DCM",Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+489,"System Working Slow (Very Slow Performance)",IT,"Laptop / Desktop",Urgent,"Manish Arya",Operations,"Jaipur Malviya Nagar",Un-assigned,-,Pending,-," 7-Jul-26",12-Jul-26,
+490,"SYSTEM CONFIGURATION REQUIRED",IT,"Laptop / Desktop",High,"Vijaya Kumara K S","Credit & Risk",Nelamangala,Un-assigned,-,Pending,-," 2-Jul-26",12-Jul-26,
+491,"508835 - Nagendrasingh 508838 - Dhruv Rathod",IT,"SFTP Access",Low,"Francis Johnbhai Chauhan",Sales,Naroda,Un-assigned,-,Pending,-," 3-Jul-26",12-Jul-26,
+492,"pc hang",IT,"Laptop / Desktop",High,"Rinki Yadav","Credit & Risk",Gandhidham,Un-assigned,-,Pending,-,30-Jun-26,12-Jul-26,
+493,"other ",IT,"Laptop / Desktop",Low,"Satish  Naika",Sales,Hunsur,Un-assigned,-,Pending,-," 3-Jul-26",12-Jul-26,
+494,"backup for older mail and change e Singh in laptop",IT,"Laptop / Desktop",High,"Jat  Chandrakant",Sales,Vadodara,Un-assigned,-,Pending,-," 1-Jul-26",12-Jul-26,
+495,"zing hr appliction not working 506359",,Others_HR,Urgent,"Neeraj Sharma",Sales,"Jaipur DCM",Un-assigned,-,Pending,-,10-Oct-25,12-Jul-26,
+496,"Pls Change my printer ",IT,"Printer / Scanner",Urgent,"Deepak Rathi","Credit & Risk",Phulera,Un-assigned,-,Pending,-," 2-Jul-26",12-Jul-26,
+497,"Dear  sir , this device another Already logged in (508453)",IT,"Laptop / Desktop",Low,"Kamal Kishore Kachhawa",Sales,"Jaipur Kalwar Road",Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+498,"E MAIL NOT WORKING",IT,Email,Urgent,"Ramesh  Chandra",Legal,"Jaipur Malviya Nagar",Un-assigned,-,Pending,-," 7-Jul-26",12-Jul-26,
+499,"Zing HR not working",,"ESS / HRMS / Sahasth",Urgent,"Surat  Singh","Collection & Legal",Kotputli,Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+500,"Zing HRMS Not Working",,"Attendance / Leave",Urgent,"Nikhil Kumar",Sales,"Jaipur DCM",Un-assigned,-,Pending,-,11-Oct-25,12-Jul-26,
+501,"REQUEST FOR NAME CORRECTION IN HRMS - MISMATCH IS CAUSING ISSUES WITH COURIER DELIVERIES",,Others_HR,Urgent,"Lakhani Ashvinbhai",Legal,Ahmedabad,Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+502,"not working any app ",IT,"Laptop / Desktop",High,"Nitesh  Kumar",Sales,"Jaipur Kalwar Road",Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+503,"Zing HRMS Not Working",,"Attendance / Leave",Urgent,"Nikhil Kumar",Sales,"Jaipur DCM",Un-assigned,-,Pending,-,10-Oct-25,12-Jul-26,
+504,"ASHWIN PADHIYAR EMP CODE 501723 MAY Zing HR LOCKED NEW PASWOOD PROVDI",,Salary,Low,"Padhiyar Ashvinkumar Chimanbhai",Sales,Anand,Un-assigned,-,Pending,-,16-Oct-25,12-Jul-26,
+505,"ZINGHR Login not working // dinesh singh // 505223",,"ESS / HRMS / Sahasth",Urgent,"Mahaveer Singh Chouhan",Sales,Bhilwara,Un-assigned,-,Pending,-,10-Oct-25,12-Jul-26,
+506,"PUNCH IN AND PUNCH OUT NOT DONE- CHANDHAN R-506782",,"Attendance / Leave",Urgent,"Chethana K B","Credit & Risk","Bengaluru Rajajinagar",Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+507,"other ",IT,"Laptop / Desktop",Low,"Satish  Naika",Sales,Hunsur,Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+508,"Reg - Unable to do Print from my LAPTOP",IT,"Printer / Scanner",Urgent,"P Thileeban","Credit & Risk",Tiruchirappalli,Un-assigned,-,Pending,-," 7-Jul-26",12-Jul-26,
+509,"Zing HR",,"ESS / HRMS / Sahasth",Urgent,"Anand Kumar D",Sales,"Bengaluru Yelahanka",Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+510,"LAPTOP NOT WORK PROPERLY HANG ISSUE",IT,"Laptop / Desktop",Urgent,"KHANDALA DAYABHAI",Legal,Surendranagar,Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+511,"My system is not working",IT,"Laptop / Desktop",Urgent,"Kata Rajesh","Credit & Risk",Vishakhapatnam,Un-assigned,-,Pending,-," 3-Jul-26",12-Jul-26,
+512,"REQUETING FOR CONFIGURATION OF DESKTOP ",IT,"Laptop / Desktop",Urgent,"Akula Raju","Credit & Risk",Siddipet,Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+513,"REQUESTING FOR CANON PRINTER CONFIGURATON",IT,"Printer / Scanner",Urgent,"Akula Raju","Credit & Risk",Siddipet,Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+514,"request a UAN PF Account no.  is required",,"PF / ESIC",Urgent,"Dhruv Shah","Credit & Risk",Vadodara,Un-assigned,-,Pending,-,13-Oct-25,12-Jul-26,
+515,"Add printer ",IT,"Printer / Scanner",Urgent,"Kartik Gupta",Legal,"Jaipur Kalwar Road",Un-assigned,-,Pending,-," 3-Jul-26",12-Jul-26,
+516," NEW EMPOLEE ID CREATION WITH E-MAIL CONFICURATION & PASSWORD",IT,"Laptop / Desktop",Urgent,"Sharmas Hussain",Sales,"Bengaluru Ramamurthy Nagar",Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+517,"laptop allocation to new BSM Kukatpally - P Rajesh - 508849",IT,"Laptop / Desktop",High,"Mahesh  Vemula",Sales,"Hyderabad Kukatpally",Un-assigned,-,Pending,-," 3-Jul-26",12-Jul-26,
+518,"Dear Team zing HR Unlocked Id ",,"ESS / HRMS / Sahasth",Urgent,Srinatha,Sales,"Bengaluru Ramamurthy Nagar",Un-assigned,-,Pending,-,13-Oct-25,12-Jul-26,
+519,"Dear Team  Has Main zing HR Unlocked Id  employee id-506280",,"ESS / HRMS / Sahasth",Urgent,Srinatha,Sales,"Bengaluru Ramamurthy Nagar",Un-assigned,-,Pending,-,13-Oct-25,12-Jul-26,
+520,"Print Not Working in my laptop ",IT,"Printer / Scanner",Urgent,"Ranjith L K",Sales,Hassan,Un-assigned,-,Pending,-," 3-Jul-26",12-Jul-26,
+521,"Dear Team zing HR Blocked my Id need to unlock and request you to please solve ASP do need full",,"ESS / HRMS / Sahasth",Urgent,Srinatha,Sales,"Bengaluru Ramamurthy Nagar",Un-assigned,-,Pending,-,13-Oct-25,12-Jul-26,
+522,"PRINTER NOT WORKING",IT,"Printer / Scanner",Urgent,"Mamidi Upendar","Credit & Risk",Khammam,Un-assigned,-,Pending,-,29-Jun-26,12-Jul-26,
+523,"sales pc not working",IT,"Laptop / Desktop",Urgent,"Parmar Dipakkumar",Sales,Nadiad,Un-assigned,-,Pending,-,30-Jun-26,12-Jul-26,
+524,"desktop not working ",IT,"Laptop / Desktop",Urgent,"Naresh Patel","Credit & Risk",Vapi,Un-assigned,-,Pending,-," 6-Jul-26",12-Jul-26,
+525,"Unable to mark attendance on my other mapped branch.",,"Attendance / Leave",High,"Sandeep Nagar","Credit & Risk",Ajmer,Un-assigned,-,Pending,-,13-Oct-25,12-Jul-26,
+526,"Request your to provide joining kit EMP id : 506253 ",,Others_HR,High,"Velma Kanne Vikram Babu",Operations,"Hyderabad Kushaiguda",Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+527,"Please install Leptop BM Naresh Patidar Sagwara Branch Mobile No 9928521548",IT,"Laptop / Desktop",Urgent,"Kuldip Chouhan","Credit & Risk",Sagwara,Un-assigned,-,Pending,-," 7-Jul-26",12-Jul-26,
+528,"i have missed my ID Card please arrange new id card",,Others_HR,Urgent,"N Shashikumar",Sales,"Bengaluru Kengeri",Un-assigned,-,Pending,-,14-Oct-25,12-Jul-26,
+529,"Resent Transfer Nanded To Latur please attendance activate latur branch location ",,"Attendance / Leave",Urgent,"Mangesh Shankarrao Junne",Sales,Nanded,Un-assigned,-,Pending,-,15-Oct-25,12-Jul-26,
+530,"ASHWIN PADHIYAR EMP CODE 501723 MAY Zing HR LOCKED NEW PASWOOD PROVDI",,"ESS / HRMS / Sahasth",Low,"Padhiyar Ashvinkumar Chimanbhai",Sales,Anand,Un-assigned,-,Pending,-,15-Oct-25,12-Jul-26,
+531,"Problem on screen",IT,"Laptop / Desktop",Urgent,"Rana Jenish","Risk Containment Unit",Surat,Un-assigned,-,Pending,-,30-Jun-26,12-Jul-26,
+532,"my Mobile dives change please Update ne IMEI Attached EMP ID -502758",,"Attendance / Leave",Low,"Vyankatesh Shinde",Sales,Nanded,Un-assigned,-,Pending,-,16-Oct-25,12-Jul-26,

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dental Door | Admin</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="admin-body">
+    <header class="admin-header">
+      <a class="brand" href="index.html" aria-label="Dental Door home">
+        <img class="brand-logo" src="Images/WhatsApp Image 2026-07-13 at 12.50.17 (1).jpeg" alt="Dental Door logo" />
+      </a>
+      <div class="admin-header-actions">
+        <button class="theme-toggle" type="button" aria-pressed="false" aria-label="Toggle color theme">
+          <span class="theme-icon theme-icon-moon" aria-hidden="true">☾</span>
+          <span class="theme-icon theme-icon-sun" aria-hidden="true">☀</span>
+        </button>
+        <button class="button button-secondary admin-logout" type="button" hidden>Log out</button>
+      </div>
+    </header>
+
+    <main class="admin-shell">
+      <section class="admin-login" id="login-panel">
+        <div>
+          <p class="eyebrow">Admin panel</p>
+          <h1>Appointment Requests</h1>
+          <p>Sign in to view and manage form submissions from the website.</p>
+        </div>
+
+        <form class="admin-login-form" id="admin-login-form">
+          <label>
+            Admin password
+            <input type="password" name="password" placeholder="Enter password" autocomplete="current-password" required />
+          </label>
+          <button class="button button-primary" type="submit">Sign in</button>
+          <p class="form-note" id="login-note" role="status" aria-live="polite"></p>
+        </form>
+      </section>
+
+      <section class="admin-dashboard" id="admin-dashboard" hidden>
+        <div class="admin-title-row">
+          <div>
+            <p class="eyebrow">Clinic inbox</p>
+            <h1>Appointment Requests</h1>
+          </div>
+          <button class="button button-primary" id="refresh-appointments" type="button">Refresh</button>
+        </div>
+
+        <div class="admin-stats" aria-label="Appointment totals">
+          <div>
+            <span>Total</span>
+            <strong id="stat-total">0</strong>
+          </div>
+          <div>
+            <span>New</span>
+            <strong id="stat-new">0</strong>
+          </div>
+          <div>
+            <span>Booked</span>
+            <strong id="stat-booked">0</strong>
+          </div>
+        </div>
+
+        <form class="admin-filters" id="admin-filters">
+          <label>
+            Search
+            <input type="search" name="search" placeholder="Name, email, or phone" />
+          </label>
+          <label>
+            Status
+            <select name="status">
+              <option value="">All requests</option>
+              <option value="new">New</option>
+              <option value="contacted">Contacted</option>
+              <option value="booked">Booked</option>
+              <option value="closed">Closed</option>
+            </select>
+          </label>
+          <button class="button button-secondary" type="submit">Apply</button>
+        </form>
+
+        <p class="form-note" id="admin-note" role="status" aria-live="polite"></p>
+        <div class="appointments-list" id="appointments-list"></div>
+      </section>
+    </main>
+
+    <script src="admin.js"></script>
+  </body>
+</html>

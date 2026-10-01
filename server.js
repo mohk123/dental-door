@@ -10,12 +10,12 @@ const port = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
-app.use(express.static(__dirname));
+app.use(express.static(path.join(__dirname, "public")));
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const CONTACT_TO = process.env.CONTACT_TO || "mohak1802bhal@gmail.com";
 const FROM_EMAIL = process.env.FROM_EMAIL || "noreply@resend.dev";
-const FIREBASE_PROJECT_ID = process.env.FIREBASE_PROJECT_ID || "dental-door-id-service";
+const FIREBASE_PROJECT_ID = process.env.FIREBASE_PROJECT_ID || "dental-door-id";
 const FIREBASE_SERVICE_ACCOUNT_JSON = process.env.FIREBASE_SERVICE_ACCOUNT_JSON || "";
 const FIREBASE_SERVICE_ACCOUNT_BASE64 = process.env.FIREBASE_SERVICE_ACCOUNT_BASE64 || "";
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "";
@@ -403,6 +403,6 @@ app.get("/admin", (_req, res) => {
   res.sendFile(path.join(__dirname, "admin.html"));
 });
 
-app.listen(port, () => {
+app.listen(port, "0.0.0.0", () => {
   console.log(`SMTP server running at http://localhost:${port}`);
 });
